@@ -1,0 +1,8 @@
+#!/bin/bash
+#SBATCH --time=03:30:00
+#SBATCH --nodes=1
+#SBATCH --ntasks=80
+#SBATCH --account=rrg-mchakrav-ab
+
+singularity exec -B /scratch:/scratch /scratch/m/mchakrav/jrasgado/sudmex_alcohol_rat/analysis/fmri/container/afni.sif  3dLMEr -prefix /scratch/m/mchakrav/jrasgado/sudmex_alcohol_rat/analysis/fmri/Seed_based/models/M4HL_fc_dataset_left_granule_cell_level_of_the_cerebellum_left_Pmod4L.nii.gz -jobs 1         -model 'poly(Age,2)*Intake*Sex+Batch+(1|Subj)'         -qVars 'Age'         -gltCode interaction 'Intake : 1*High -1*Low'         -dataTable @/scratch/m/mchakrav/jrasgado/sudmex_alcohol_rat/analysis/fmri/code/LME_SB/fc_dataset_left_granule_cell_level_of_the_cerebellum_left_Pmod4L.txt
+

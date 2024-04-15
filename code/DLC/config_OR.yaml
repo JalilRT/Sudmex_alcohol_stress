@@ -1,0 +1,210 @@
+    # Project definitions (do not edit)
+Task: OR
+scorer: Jalil
+date: Apr27
+multianimalproject: false
+identity:
+
+    # Project path (change when moving around)
+project_path: /media/jalil/jalil/DLC_tracking/All_Groups/OR-Jalil-2022-04-27
+
+    # Annotation data set configuration (and individual video cropping parameters)
+video_sets:
+  /media/jalil/jalil/DLC_tracking/All_Groups/OR-Jalil-2022-04-27/videos/G1_001_OR.mp4:
+    crop: 0, 700, 0, 700
+  /media/jalil/jalil/DLC_tracking/All_Groups/OR-Jalil-2022-04-27/videos/new_videos2/G1_002_OR.mp4:
+    crop: 0, 700, 0, 700
+  /media/jalil/jalil/DLC_tracking/All_Groups/OR-Jalil-2022-04-27/videos/new_videos/G1_003_OR.mp4:
+    crop: 0, 700, 0, 700
+  /media/jalil/jalil/DLC_tracking/All_Groups/OR-Jalil-2022-04-27/videos/G1_004_OR.mp4:
+    crop: 0, 700, 0, 700
+  /media/jalil/jalil/DLC_tracking/All_Groups/OR-Jalil-2022-04-27/videos/G1_005_OR.mp4:
+    crop: 0, 700, 0, 700
+  /media/jalil/jalil/DLC_tracking/All_Groups/OR-Jalil-2022-04-27/videos/new_videos/G1_006_OR.mp4:
+    crop: 0, 700, 0, 700
+  /media/jalil/jalil/DLC_tracking/All_Groups/OR-Jalil-2022-04-27/videos/new_videos2/G1_008_OR.mp4:
+    crop: 0, 700, 0, 700
+  /media/jalil/jalil/DLC_tracking/All_Groups/OR-Jalil-2022-04-27/videos/G1_009_OR.mp4:
+    crop: 0, 700, 0, 700
+  /media/jalil/jalil/DLC_tracking/All_Groups/OR-Jalil-2022-04-27/videos/new_videos/G1_013_OR.mp4:
+    crop: 0, 700, 0, 700
+  /media/jalil/jalil/DLC_tracking/All_Groups/OR-Jalil-2022-04-27/videos/new_videos/G1_014_OR.mp4:
+    crop: 0, 700, 0, 700
+  /media/jalil/jalil/DLC_tracking/All_Groups/OR-Jalil-2022-04-27/videos/G1_015_OR.mp4:
+    crop: 0, 700, 0, 700
+  /media/jalil/jalil/DLC_tracking/All_Groups/OR-Jalil-2022-04-27/videos/new_videos/G2_017_OR.mp4:
+    crop: 0, 1080, 0, 1080
+  /media/jalil/jalil/DLC_tracking/All_Groups/OR-Jalil-2022-04-27/videos/new_videos2/G2_018_OR.mp4:
+    crop: 0, 1080, 0, 1080
+  /media/jalil/jalil/DLC_tracking/All_Groups/OR-Jalil-2022-04-27/videos/new_videos2/G2_020_OR.mp4:
+    crop: 0, 1080, 0, 1080
+  /media/jalil/jalil/DLC_tracking/All_Groups/OR-Jalil-2022-04-27/videos/G2_021_OR.mp4:
+    crop: 0, 1080, 0, 1080
+  /media/jalil/jalil/DLC_tracking/All_Groups/OR-Jalil-2022-04-27/videos/new_videos2/G2_023_OR.mp4:
+    crop: 0, 1080, 0, 1080
+  /media/jalil/jalil/DLC_tracking/All_Groups/OR-Jalil-2022-04-27/videos/new_videos/G2_024_OR.mp4:
+    crop: 0, 1080, 0, 1080
+  /media/jalil/jalil/DLC_tracking/All_Groups/OR-Jalil-2022-04-27/videos/G2_025_OR.mp4:
+    crop: 0, 1080, 0, 1080
+  /media/jalil/jalil/DLC_tracking/All_Groups/OR-Jalil-2022-04-27/videos/new_videos/G2_026_OR.mp4:
+    crop: 0, 1080, 0, 1080
+  /media/jalil/jalil/DLC_tracking/All_Groups/OR-Jalil-2022-04-27/videos/new_videos/G2_028_OR.mp4:
+    crop: 0, 1080, 0, 1080
+  /media/jalil/jalil/DLC_tracking/All_Groups/OR-Jalil-2022-04-27/videos/G2_030_OR.mp4:
+    crop: 0, 1080, 0, 1080
+  /media/jalil/jalil/DLC_tracking/All_Groups/OR-Jalil-2022-04-27/videos/G2_031_OR.mp4:
+    crop: 0, 1080, 0, 1080
+  /media/jalil/jalil/DLC_tracking/All_Groups/OR-Jalil-2022-04-27/videos/G2_032_OR.mp4:
+    crop: 0, 1080, 0, 1080
+  /media/jalil/jalil/DLC_tracking/All_Groups/OR-Jalil-2022-04-27/videos/G3_033_OR.mp4:
+    crop: 0, 700, 0, 700
+  /media/jalil/jalil/DLC_tracking/All_Groups/OR-Jalil-2022-04-27/videos/new_videos2/G3_034_OR.mp4:
+    crop: 0, 700, 0, 700
+  /media/jalil/jalil/DLC_tracking/All_Groups/OR-Jalil-2022-04-27/videos/G3_035_OR.mp4:
+    crop: 0, 700, 0, 700
+  /media/jalil/jalil/DLC_tracking/All_Groups/OR-Jalil-2022-04-27/videos/new_videos/G3_037_OR.mp4:
+    crop: 0, 700, 0, 700
+  /media/jalil/jalil/DLC_tracking/All_Groups/OR-Jalil-2022-04-27/videos/new_videos/G3_039_OR.mp4:
+    crop: 0, 700, 0, 700
+  /media/jalil/jalil/DLC_tracking/All_Groups/OR-Jalil-2022-04-27/videos/new_videos2/G3_040_OR.mp4:
+    crop: 0, 700, 0, 700
+  /media/jalil/jalil/DLC_tracking/All_Groups/OR-Jalil-2022-04-27/videos/G3_041_OR.mp4:
+    crop: 0, 700, 0, 700
+  /media/jalil/jalil/DLC_tracking/All_Groups/OR-Jalil-2022-04-27/videos/G3_042_OR.mp4:
+    crop: 0, 700, 0, 700
+  /media/jalil/jalil/DLC_tracking/All_Groups/OR-Jalil-2022-04-27/videos/new_videos/G3_043_OR.mp4:
+    crop: 0, 700, 0, 700
+  /media/jalil/jalil/DLC_tracking/All_Groups/OR-Jalil-2022-04-27/videos/G3_045_OR.mp4:
+    crop: 0, 700, 0, 700
+  /media/jalil/jalil/DLC_tracking/All_Groups/OR-Jalil-2022-04-27/videos/new_videos/G3_048_OR.mp4:
+    crop: 0, 700, 0, 700
+  /media/jalil/jalil/DLC_tracking/All_Groups/OR-Jalil-2022-04-27/videos/G3_049_OR.mp4:
+    crop: 0, 700, 0, 700
+  /media/jalil/jalil/DLC_tracking/All_Groups/OR-Jalil-2022-04-27/videos/new_videos/G3_050_OR.mp4:
+    crop: 0, 700, 0, 700
+  /media/jalil/jalil/DLC_tracking/All_Groups/OR-Jalil-2022-04-27/videos/G3_051_OR.mp4:
+    crop: 0, 700, 0, 700
+  /media/jalil/jalil/DLC_tracking/All_Groups/OR-Jalil-2022-04-27/videos/G4_052_OR.mp4:
+    crop: 0, 700, 0, 700
+  /media/jalil/jalil/DLC_tracking/All_Groups/OR-Jalil-2022-04-27/videos/new_videos2/G4_053_OR.mp4:
+    crop: 0, 700, 0, 700
+  /media/jalil/jalil/DLC_tracking/All_Groups/OR-Jalil-2022-04-27/videos/new_videos2/G4_054_OR.mp4:
+    crop: 0, 700, 0, 700
+  /media/jalil/jalil/DLC_tracking/All_Groups/OR-Jalil-2022-04-27/videos/G4_056_OR.mp4:
+    crop: 0, 700, 0, 700
+  /media/jalil/jalil/DLC_tracking/All_Groups/OR-Jalil-2022-04-27/videos/G4_057_OR.mp4:
+    crop: 0, 700, 0, 700
+  /media/jalil/jalil/DLC_tracking/All_Groups/OR-Jalil-2022-04-27/videos/new_videos/G4_059_OR.mp4:
+    crop: 0, 700, 0, 700
+  /media/jalil/jalil/DLC_tracking/All_Groups/OR-Jalil-2022-04-27/videos/new_videos/G4_061_OR.mp4:
+    crop: 0, 700, 0, 700
+  /media/jalil/jalil/DLC_tracking/All_Groups/OR-Jalil-2022-04-27/videos/G4_062_OR.mp4:
+    crop: 0, 700, 0, 700
+  /media/jalil/jalil/DLC_tracking/All_Groups/OR-Jalil-2022-04-27/videos/new_videos/G4_063_OR.mp4:
+    crop: 0, 700, 0, 700
+  /media/jalil/jalil/DLC_tracking/All_Groups/OR-Jalil-2022-04-27/videos/new_videos/G4_064_OR.mp4:
+    crop: 0, 700, 0, 700
+  /media/jalil/jalil/DLC_tracking/All_Groups/OR-Jalil-2022-04-27/videos/new_videos2/G4_065_OR.mp4:
+    crop: 0, 700, 0, 700
+  /media/jalil/jalil/DLC_tracking/All_Groups/OR-Jalil-2022-04-27/videos/G4_066_OR.mp4:
+    crop: 0, 700, 0, 700
+  /media/jalil/jalil/DLC_tracking/All_Groups/OR-Jalil-2022-04-27/videos/new_videos/G5_068_OR.mp4:
+    crop: 0, 1080, 0, 1080
+  /media/jalil/jalil/DLC_tracking/All_Groups/OR-Jalil-2022-04-27/videos/new_videos/G5_069_OR.mp4:
+    crop: 0, 1080, 0, 1080
+  /media/jalil/jalil/DLC_tracking/All_Groups/OR-Jalil-2022-04-27/videos/new_videos2/G5_070_OR.mp4:
+    crop: 0, 1080, 0, 1080
+  /media/jalil/jalil/DLC_tracking/All_Groups/OR-Jalil-2022-04-27/videos/new_videos2/G5_071_OR.mp4:
+    crop: 0, 1080, 0, 1080
+  /media/jalil/jalil/DLC_tracking/All_Groups/OR-Jalil-2022-04-27/videos/new_videos/G5_072_OR.mp4:
+    crop: 0, 1080, 0, 1080
+  /media/jalil/jalil/DLC_tracking/All_Groups/OR-Jalil-2022-04-27/videos/new_videos/G5_074_OR.mp4:
+    crop: 0, 1080, 0, 1080
+  /media/jalil/jalil/DLC_tracking/All_Groups/OR-Jalil-2022-04-27/videos/new_videos/G5_076_OR.mp4:
+    crop: 0, 1080, 0, 1080
+  /media/jalil/jalil/DLC_tracking/All_Groups/OR-Jalil-2022-04-27/videos/new_videos/G5_078_OR.mp4:
+    crop: 0, 1080, 0, 1080
+  /media/jalil/jalil/DLC_tracking/All_Groups/OR-Jalil-2022-04-27/videos/new_videos2/G5_081_OR.mp4:
+    crop: 0, 1080, 0, 1080
+  /media/jalil/jalil/DLC_tracking/All_Groups/OR-Jalil-2022-04-27/videos/new_videos2/G5_083_OR.mp4:
+    crop: 0, 1080, 0, 1080
+  /media/jalil/jalil/DLC_tracking/All_Groups/OR-Jalil-2022-04-27/videos/new_videos/G5_084_OR.mp4:
+    crop: 0, 1080, 0, 1080
+bodyparts:
+- tl
+- tr
+- bl
+- br
+- obt
+- obb
+- obl
+- obr
+- nobt
+- nobb
+- nobl
+- nobr
+- nose
+- headcentre
+- neck
+- bodycentre
+- bcl
+- bcr
+- hipl
+- hipr
+- tailbase
+- tailcentre
+- tailtip
+start: 0
+stop: 1
+numframes2pick: 10
+
+    # Plotting configuration
+skeleton:
+- - nose
+  - bodycentre
+- - bodycentre
+  - tailbase
+- - obt
+  - obl
+- - obl
+  - obb
+- - obb
+  - obr
+- - obr
+  - obt
+- - nobt
+  - nobl
+- - nobl
+  - nobb
+- - nobb
+  - nobr
+- - nobr
+  - nobt
+skeleton_color: black
+pcutoff: 0.6
+dotsize: 3
+alphavalue: 0.7
+colormap: rainbow
+
+    # Training,Evaluation and Analysis configuration
+TrainingFraction:
+- 0.95
+iteration: 2
+default_net_type: resnet_50
+default_augmenter: default
+snapshotindex: -1
+batch_size: 8
+
+    # Cropping Parameters (for analysis and outlier frame detection)
+cropping: false
+    #if cropping is true for analysis, then set the values here:
+x1: 0
+x2: 640
+y1: 277
+y2: 624
+
+    # Refinement configuration (parameters from annotation dataset configuration also relevant in this stage)
+corner2move2:
+- 50
+- 50
+move2corner: true
