@@ -1,0 +1,400 @@
+d1,d2,d3,x,y,z,value,label,label_clean,Model,ROI_model
+67,86,51,1.39487174153328,-0.573836863040924,1.22844818234444,5.785,right Thalamus ,right_thalamus,LMod1_Alc,right_thalamus_LMod1_Alc
+57,15,60,-0.246153950691223,-12.214534163475,2.70258609950542,4.775,left Molecular Layer of the Cerebellum_left,left_molecular_layer_of_the_cerebellum_left,LMod1_Alc,left_molecular_layer_of_the_cerebellum_left_LMod1_Alc
+101,43,30,6.97435909509659,-7.62383663654327,-2.21120695769787,4.625,right Granule Cell Level of the Cerebellum,right_granule_cell_level_of_the_cerebellum,LMod1_Alc,right_granule_cell_level_of_the_cerebellum_LMod1_Alc
+37,44,32,-3.52820533514023,-7.45988315343857,-1.88362075388432,4.434,left Granule Cell Level of the Cerebellum_left,left_granule_cell_level_of_the_cerebellum_left,LMod1_Alc,left_granule_cell_level_of_the_cerebellum_left_LMod1_Alc
+105,73,33,7.63076937198639,-2.7052321434021,-1.71982765197754,4.425,right Lateral Entorhinal Cortex,right_lateral_entorhinal_cortex,LMod1_Alc,right_lateral_entorhinal_cortex_LMod1_Alc
+67,116,48,1.39487174153328,4.34476763010025,0.737068876624107,4.397,right Striatum,right_striatum,LMod1_Alc,right_striatum_LMod1_Alc
+35,100,52,-3.85641047358513,1.72151190042496,1.39224128425121,4.331,left Striatum_left,left_striatum_left,LMod1_Alc,left_striatum_left_LMod1_Alc
+71,20,37,2.05128201842308,-11.3947667479515,-1.06465524435043,3.991,right Granule Cell Level of the Cerebellum,right_granule_cell_level_of_the_cerebellum_2,LMod1_Alc,right_granule_cell_level_of_the_cerebellum_2_LMod1_Alc
+73,51,42,2.37948715686798,-6.31220877170563,-0.245689734816551,3.804,right Molecular Layer of the Cerebellum,right_molecular_layer_of_the_cerebellum,LMod1_Alc,right_molecular_layer_of_the_cerebellum_LMod1_Alc
+17,77,36,-6.81025671958923,-2.04941821098328,-1.22844834625721,3.574,left Lateral Entorhinal Cortex_left,left_lateral_entorhinal_cortex_left,LMod1_Alc,left_lateral_entorhinal_cortex_left_LMod1_Alc
+43,58,56,-2.54358991980553,-5.16453438997269,2.04741369187832,3.497,left Parasubiculum_left,left_parasubiculum_left,LMod1_Alc,left_parasubiculum_left_LMod1_Alc
+42,112,70,-2.70769248902798,3.68895369768143,4.34051711857319,-4.96,left Primary Motor Cortex_left,left_primary_motor_cortex_left,LMod1_Alc,left_primary_motor_cortex_left_LMod1_Alc
+22,89,45,-5.98974387347698,-0.0819764137268066,0.245689570903778,-4.942,left Dysgranular Insular Cortex_left,left_dysgranular_insular_cortex_left,LMod1_Alc,left_dysgranular_insular_cortex_left_LMod1_Alc
+41,60,24,-2.87179505825043,-4.83662742376328,-3.19396556913853,-4.585,left Middle Cerebellar Peduncle_left ,left_middle_cerebellar_peduncle_left,LMod1_Alc,left_middle_cerebellar_peduncle_left_LMod1_Alc
+64,160,53,0.902564033865929,11.5587208867073,1.55603438615799,-4.368,right Glomerular Layer of the Olfactory Bulb,right_glomerular_layer_of_the_olfactory_bulb,LMod1_Alc,right_glomerular_layer_of_the_olfactory_bulb_LMod1_Alc
+78,64,22,3.20000000298023,-4.18081349134445,-3.52155177295208,-4.332,right Middle Cerebellar Peduncle ,right_middle_cerebellar_peduncle,LMod1_Alc,right_middle_cerebellar_peduncle_LMod1_Alc
+62,74,61,0.574358895421028,-2.54127866029739,2.8663792014122,-4.296,right Subiculum,right_subiculum,LMod1_Alc,right_subiculum_LMod1_Alc
+77,103,27,3.03589743375778,2.21337234973907,-2.7025862634182,-4.224,right Entorhinal Cortex,right_entorhinal_cortex,LMod1_Alc,right_entorhinal_cortex_LMod1_Alc
+28,34,31,-5.00512845814228,-9.09941798448563,-2.04741385579109,-4.133,left Granule Cell Level of the Cerebellum_left,left_granule_cell_level_of_the_cerebellum_left_2,LMod1_Alc,left_granule_cell_level_of_the_cerebellum_left_2_LMod1_Alc
+37,115,45,-3.52820533514023,4.18081414699554,0.245689570903778,-3.524,left Agranular Insular Cortex_left,left_agranular_insular_cortex_left,LMod1_Alc,left_agranular_insular_cortex_left_LMod1_Alc
+79,51,41,3.36410257220268,-6.31220877170563,-0.409482836723328,7.465,right Molecular Layer of the Cerebellum,right_molecular_layer_of_the_cerebellum,LMod4_Alc,right_molecular_layer_of_the_cerebellum_LMod4_Alc
+37,70,37,-3.52820533514023,-3.19709259271622,-1.06465524435043,6.745,left Dentate Gyrus_left,left_dentate_gyrus_left,LMod4_Alc,left_dentate_gyrus_left_LMod4_Alc
+32,131,64,-4.34871818125248,6.80406987667084,3.35775850713253,6.278,left Orbitofrontal Region_left,left_orbitofrontal_region_left,LMod4_Alc,left_orbitofrontal_region_left_LMod4_Alc
+85,24,62,4.34871798753738,-10.7389528155327,3.03017230331898,5.87,right Molecular Layer of the Cerebellum,right_molecular_layer_of_the_cerebellum_2,LMod4_Alc,right_molecular_layer_of_the_cerebellum_2_LMod4_Alc
+58,131,50,-0.0820513814687729,6.80406987667084,1.06465508043766,5.515,left Olfactory Bulb_left,left_olfactory_bulb_left,LMod4_Alc,left_olfactory_bulb_left_LMod4_Alc
+60,17,61,0.246153756976128,-11.8866271972656,2.8663792014122,5.455,left Molecular Layer of the Cerebellum_left,left_molecular_layer_of_the_cerebellum_left,LMod4_Alc,left_molecular_layer_of_the_cerebellum_left_LMod4_Alc
+20,103,43,-6.31794901192188,2.21337234973907,-0.0818966329097748,5.304,left Dysgranular Insular Cortex_left,left_dysgranular_insular_cortex_left,LMod4_Alc,left_dysgranular_insular_cortex_left_LMod4_Alc
+65,87,46,1.06666660308838,-0.409883379936218,0.409482672810555,5.158,right Thalamus ,right_thalamus,LMod4_Alc,right_thalamus_LMod4_Alc
+57,163,67,-0.246153950691223,12.0505813360214,3.84913781285286,4.929,left Glomerular Layer of the Olfactory Bulb_left,left_glomerular_layer_of_the_olfactory_bulb_left,LMod4_Alc,left_glomerular_layer_of_the_olfactory_bulb_left_LMod4_Alc
+52,114,79,-1.06666679680347,4.01686066389084,5.81465503573418,4.705,left Secondary Motor Cortex_left,left_secondary_motor_cortex_left,LMod4_Alc,left_secondary_motor_cortex_left_LMod4_Alc
+39,31,66,-3.20000019669533,-9.59127843379974,3.68534471094608,4.114,left Molecular Layer of the Cerebellum_left,left_molecular_layer_of_the_cerebellum_left_2,LMod4_Alc,left_molecular_layer_of_the_cerebellum_left_2_LMod4_Alc
+65,82,21,1.06666660308838,-1.22965079545975,-3.68534487485886,4.039,right Hypothalamic Region,right_hypothalamic_region,LMod4_Alc,right_hypothalamic_region_LMod4_Alc
+46,80,60,-2.05128221213818,-1.55755776166916,2.70258609950542,3.892,left Dentate Gyrus_left,left_dentate_gyrus_left_2,LMod4_Alc,left_dentate_gyrus_left_2_LMod4_Alc
+83,135,59,4.02051284909248,7.45988380908966,2.53879299759865,3.881,right Dorso Lateral Orbital Cortex,right_dorso_lateral_orbital_cortex,LMod4_Alc,right_dorso_lateral_orbital_cortex_LMod4_Alc
+70,53,66,1.88717944920063,-5.98430180549622,3.68534471094608,3.427,right Retosplenial Dysgranular Cortex,right_retosplenial_dysgranular_cortex,LMod4_Alc,right_retosplenial_dysgranular_cortex_LMod4_Alc
+96,76,22,6.15384624898434,-2.21337169408798,-3.52155177295208,3.231,right Amygdalopiriform Cortex,right_amygdalopiriform_cortex,LMod4_Alc,right_amygdalopiriform_cortex_LMod4_Alc
+34,33,39,-4.02051304280758,-9.26337146759033,-0.73706904053688,3.23,left Molecular Layer of the Cerebellum_left,left_molecular_layer_of_the_cerebellum_left_3,LMod4_Alc,left_molecular_layer_of_the_cerebellum_left_3_LMod4_Alc
+67,151,54,1.39487174153328,10.083139538765,1.71982748806477,-6.198,right Olfactory Bulb,right_olfactory_bulb,LMod4_Alc,right_olfactory_bulb_LMod4_Alc
+46,103,72,-2.05128221213818,2.21337234973907,4.66810332238674,-5.605,left Primary Motor Cortex_left,left_primary_motor_cortex_left,LMod4_Alc,left_primary_motor_cortex_left_LMod4_Alc
+25,88,43,-5.49743616580963,-0.245929896831512,-0.0818966329097748,-5.546,left Posterior Agralunar Insular Cortex_left,left_posterior_agralunar_insular_cortex_left,LMod4_Alc,left_posterior_agralunar_insular_cortex_left_LMod4_Alc
+69,65,73,1.72307687997818,-4.01686000823975,4.83189642429352,-5.397,right Retosplenial Dysgranular Cortex,right_retosplenial_dysgranular_cortex_2,LMod4_Alc,right_retosplenial_dysgranular_cortex_2_LMod4_Alc
+91,113,47,5.33333340287209,3.85290718078613,0.573275774717331,-5.189,right Dysgranular Insular Cortex,right_dysgranular_insular_cortex,LMod4_Alc,right_dysgranular_insular_cortex_LMod4_Alc
+30,53,57,-4.67692331969738,-5.98430180549622,2.2112067937851,-4.964,left Retosplenial Dysgranular Cortex_left,left_retosplenial_dysgranular_cortex_left,LMod4_Alc,left_retosplenial_dysgranular_cortex_left_LMod4_Alc
+70,117,68,1.88717944920063,4.50872111320496,4.01293091475964,-4.526,right Primary Motor Cortex,right_primary_motor_cortex,LMod4_Alc,right_primary_motor_cortex_LMod4_Alc
+42,121,49,-2.70769248902798,5.16453504562378,0.900861978530884,-4.146,left PreLimbic System_left,left_pre_limbic_system_left,LMod4_Alc,left_pre_limbic_system_left_LMod4_Alc
+80,86,62,3.52820514142513,-0.573836863040924,3.03017230331898,-4.029,right Cornu Ammonis 3,right_cornu_ammonis_3,LMod4_Alc,right_cornu_ammonis_3_LMod4_Alc
+27,36,31,-5.16923102736473,-8.77151101827621,-2.04741385579109,-3.868,left Granule Cell Level of the Cerebellum_left,left_granule_cell_level_of_the_cerebellum_left,LMod4_Alc,left_granule_cell_level_of_the_cerebellum_left_LMod4_Alc
+92,94,31,5.49743597209454,0.737791001796722,-2.04741385579109,-3.715,right Entorhinal Cortex,right_entorhinal_cortex,LMod4_Alc,right_entorhinal_cortex_LMod4_Alc
+51,169,61,-1.23076936602592,13.0343022346497,2.8663792014122,-3.556,left Glomerular Layer of the Olfactory Bulb_left,left_glomerular_layer_of_the_olfactory_bulb_left_2,LMod4_Alc,left_glomerular_layer_of_the_olfactory_bulb_left_2_LMod4_Alc
+91,36,52,5.33333340287209,-8.77151101827621,1.39224128425121,-3.34,right Molecular Layer of the Cerebellum,right_molecular_layer_of_the_cerebellum_3,LMod4_Alc,right_molecular_layer_of_the_cerebellum_3_LMod4_Alc
+57,86,18,-0.246153950691223,-0.573836863040924,-4.17672418057919,-3.301,left Hypothalamic Region_left,left_hypothalamic_region_left,LMod4_Alc,left_hypothalamic_region_left_LMod4_Alc
+61,47,54,0.410256326198578,-6.96802270412445,1.71982748806477,-2.91,left Molecular Layer of the Cerebellum_left,left_molecular_layer_of_the_cerebellum_left_4,LMod4_Alc,left_molecular_layer_of_the_cerebellum_left_4_LMod4_Alc
+98,57,34,6.48205138742924,-5.32848787307739,-1.55603455007076,-2.702,right Medial Entorhinal Cortex,right_medial_entorhinal_cortex,LMod4_Alc,right_medial_entorhinal_cortex_LMod4_Alc
+71,68,33,2.05128201842308,-3.52499955892563,-1.71982765197754,-2.646,right Substantia Nigra,right_substantia_nigra,LMod4_Alc,right_substantia_nigra_LMod4_Alc
+70,63,71,1.88717944920063,-4.34476697444916,4.50431022047997,5.596,right Retosplenial Dysgranular Cortex,right_retosplenial_dysgranular_cortex,LMod1_Str,right_retosplenial_dysgranular_cortex_LMod1_Str
+91,114,47,5.33333340287209,4.01686066389084,0.573275774717331,5.451,right Dysgranular Insular Cortex,right_dysgranular_insular_cortex,LMod1_Str,right_dysgranular_insular_cortex_LMod1_Str
+19,76,32,-6.48205158114433,-2.21337169408798,-1.88362075388432,5.291,left Lateral Entorhinal Cortex_left,left_lateral_entorhinal_cortex_left,LMod1_Str,left_lateral_entorhinal_cortex_left_LMod1_Str
+85,42,30,4.34871798753738,-7.78779011964798,-2.21120695769787,5.117,right Granule Cell Level of the Cerebellum,right_granule_cell_level_of_the_cerebellum,LMod1_Str,right_granule_cell_level_of_the_cerebellum_LMod1_Str
+101,77,31,6.97435909509659,-2.04941821098328,-2.04741385579109,4.799,right Lateral Entorhinal Cortex,right_lateral_entorhinal_cortex,LMod1_Str,right_lateral_entorhinal_cortex_LMod1_Str
+64,148,57,0.902564033865929,9.59127908945084,2.2112067937851,4.739,right Olfactory Bulb,right_olfactory_bulb,LMod1_Str,right_olfactory_bulb_LMod1_Str
+36,42,30,-3.69230790436268,-7.78779011964798,-2.21120695769787,4.58,left Granule Cell Level of the Cerebellum_left,left_granule_cell_level_of_the_cerebellum_left,LMod1_Str,left_granule_cell_level_of_the_cerebellum_left_LMod1_Str
+68,101,73,1.55897431075573,1.88546538352966,4.83189642429352,4.452,right Secondary Motor Cortex,right_secondary_motor_cortex,LMod1_Str,right_secondary_motor_cortex_LMod1_Str
+38,82,54,-3.36410276591778,-1.22965079545975,1.71982748806477,4.434,left Thalamus_left ,left_thalamus_left,LMod1_Str,left_thalamus_left_LMod1_Str
+30,53,57,-4.67692331969738,-5.98430180549622,2.2112067937851,4.195,left Retosplenial Dysgranular Cortex_left,left_retosplenial_dysgranular_cortex_left,LMod1_Str,left_retosplenial_dysgranular_cortex_left_LMod1_Str
+95,56,52,5.98974367976189,-5.4924413561821,1.39224128425121,3.874,right Lateral Entorhinal Cortex,right_lateral_entorhinal_cortex_2,LMod1_Str,right_lateral_entorhinal_cortex_2_LMod1_Str
+45,106,58,-2.21538478136063,2.70523279905319,2.37499989569187,3.743,left Striatum_left,left_striatum_left,LMod1_Str,left_striatum_left_LMod1_Str
+51,169,61,-1.23076936602592,13.0343022346497,2.8663792014122,3.071,left Glomerular Layer of the Olfactory Bulb_left,left_glomerular_layer_of_the_olfactory_bulb_left,LMod1_Str,left_glomerular_layer_of_the_olfactory_bulb_left_LMod1_Str
+83,83,65,4.02051284909248,-1.06569731235504,3.52155160903931,2.977,right Cornu Ammonis 1,right_cornu_ammonis_1,LMod1_Str,right_cornu_ammonis_1_LMod1_Str
+31,63,36,-4.51282075047493,-4.34476697444916,-1.22844834625721,-8.256,left Perirhinal Area 36_left,left_perirhinal_area_36_left,LMod1_Str,left_perirhinal_area_36_left_LMod1_Str
+36,133,55,-3.69230790436268,7.13197684288025,1.88362058997154,-6.634,left Dorso Lateral Orbital Cortex_left,left_dorso_lateral_orbital_cortex_left,LMod1_Str,left_dorso_lateral_orbital_cortex_left_LMod1_Str
+81,71,35,3.69230771064758,-3.03313910961151,-1.39224144816399,-6.319,right Dentate Gyrus,right_dentate_gyrus,LMod1_Str,right_dentate_gyrus_LMod1_Str
+60,75,60,0.246153756976128,-2.37732517719269,2.70258609950542,-6.246,left Subiculum_left,left_subiculum_left,LMod1_Str,left_subiculum_left_LMod1_Str
+79,134,53,3.36410257220268,7.29593032598495,1.55603438615799,-6.207,right Dorso Lateral Orbital Cortex,right_dorso_lateral_orbital_cortex,LMod1_Str,right_dorso_lateral_orbital_cortex_LMod1_Str
+57,158,55,-0.246153950691223,11.2308139204979,1.88362058997154,-5.305,left Glomerular Layer of the Olfactory Bulb_left,left_glomerular_layer_of_the_olfactory_bulb_left_2,LMod1_Str,left_glomerular_layer_of_the_olfactory_bulb_left_2_LMod1_Str
+58,110,71,-0.0820513814687729,3.36104673147202,4.50431022047997,-5.115,left Primary Cingular Cortex_left,left_primary_cingular_cortex_left,LMod1_Str,left_primary_cingular_cortex_left_LMod1_Str
+50,25,68,-1.39487193524837,-10.574999332428,4.01293091475964,-4.971,left Molecular Layer of the Cerebellum_left,left_molecular_layer_of_the_cerebellum_left,LMod1_Str,left_molecular_layer_of_the_cerebellum_left_LMod1_Str
+63,100,26,0.738461464643478,1.72151190042496,-2.86637936532497,-4.547,right Hypothalamic Region,right_hypothalamic_region,LMod1_Str,right_hypothalamic_region_LMod1_Str
+79,27,66,3.36410257220268,-10.2470923662186,3.68534471094608,-4.454,right Molecular Layer of the Cerebellum,right_molecular_layer_of_the_cerebellum,LMod1_Str,right_molecular_layer_of_the_cerebellum_LMod1_Str
+32,30,38,-4.34871818125248,-9.75523191690445,-0.900862142443657,-4.178,left Granule Cell Level of the Cerebellum_left,left_granule_cell_level_of_the_cerebellum_left_2,LMod1_Str,left_granule_cell_level_of_the_cerebellum_left_2_LMod1_Str
+87,33,36,4.67692312598228,-9.26337146759033,-1.22844834625721,-3.933,right Molecular Layer of the Cerebellum,right_molecular_layer_of_the_cerebellum_2,LMod1_Str,right_molecular_layer_of_the_cerebellum_2_LMod1_Str
+49,79,28,-1.55897450447083,-1.72151124477386,-2.53879316151142,-3.931,left Hypothalamic Region_left,left_hypothalamic_region_left,LMod1_Str,left_hypothalamic_region_left_LMod1_Str
+102,103,41,7.13846166431904,2.21337234973907,-0.409482836723328,-3.029,right Dysgranular Insular Cortex,right_dysgranular_insular_cortex_2,LMod1_Str,right_dysgranular_insular_cortex_2_LMod1_Str
+28,99,47,-5.00512845814228,1.55755841732025,0.573275774717331,-2.977,left Dysgranular Insular Cortex_left,left_dysgranular_insular_cortex_left,LMod1_Str,left_dysgranular_insular_cortex_left_LMod1_Str
+57,135,68,-0.246153950691223,7.45988380908966,4.01293091475964,-2.855,left Frontal Association Cortex_left,left_frontal_association_cortex_left,LMod1_Str,left_frontal_association_cortex_left_LMod1_Str
+67,151,54,1.39487174153328,10.083139538765,1.71982748806477,6.198,right Olfactory Bulb,right_olfactory_bulb,LMod6_Str,right_olfactory_bulb_LMod6_Str
+46,103,72,-2.05128221213818,2.21337234973907,4.66810332238674,5.605,left Primary Motor Cortex_left,left_primary_motor_cortex_left,LMod6_Str,left_primary_motor_cortex_left_LMod6_Str
+25,88,43,-5.49743616580963,-0.245929896831512,-0.0818966329097748,5.546,left Posterior Agralunar Insular Cortex_left,left_posterior_agralunar_insular_cortex_left,LMod6_Str,left_posterior_agralunar_insular_cortex_left_LMod6_Str
+69,65,73,1.72307687997818,-4.01686000823975,4.83189642429352,5.397,right Retosplenial Dysgranular Cortex,right_retosplenial_dysgranular_cortex,LMod6_Str,right_retosplenial_dysgranular_cortex_LMod6_Str
+91,113,47,5.33333340287209,3.85290718078613,0.573275774717331,5.189,right Dysgranular Insular Cortex,right_dysgranular_insular_cortex,LMod6_Str,right_dysgranular_insular_cortex_LMod6_Str
+30,53,57,-4.67692331969738,-5.98430180549622,2.2112067937851,4.964,left Retosplenial Dysgranular Cortex_left,left_retosplenial_dysgranular_cortex_left,LMod6_Str,left_retosplenial_dysgranular_cortex_left_LMod6_Str
+70,117,68,1.88717944920063,4.50872111320496,4.01293091475964,4.526,right Primary Motor Cortex,right_primary_motor_cortex,LMod6_Str,right_primary_motor_cortex_LMod6_Str
+42,121,49,-2.70769248902798,5.16453504562378,0.900861978530884,4.146,left PreLimbic System_left,left_pre_limbic_system_left,LMod6_Str,left_pre_limbic_system_left_LMod6_Str
+80,86,62,3.52820514142513,-0.573836863040924,3.03017230331898,4.029,right Cornu Ammonis 3,right_cornu_ammonis_3,LMod6_Str,right_cornu_ammonis_3_LMod6_Str
+27,36,31,-5.16923102736473,-8.77151101827621,-2.04741385579109,3.868,left Granule Cell Level of the Cerebellum_left,left_granule_cell_level_of_the_cerebellum_left,LMod6_Str,left_granule_cell_level_of_the_cerebellum_left_LMod6_Str
+92,94,31,5.49743597209454,0.737791001796722,-2.04741385579109,3.715,right Entorhinal Cortex,right_entorhinal_cortex,LMod6_Str,right_entorhinal_cortex_LMod6_Str
+51,169,61,-1.23076936602592,13.0343022346497,2.8663792014122,3.556,left Glomerular Layer of the Olfactory Bulb_left,left_glomerular_layer_of_the_olfactory_bulb_left,LMod6_Str,left_glomerular_layer_of_the_olfactory_bulb_left_LMod6_Str
+91,36,52,5.33333340287209,-8.77151101827621,1.39224128425121,3.34,right Molecular Layer of the Cerebellum,right_molecular_layer_of_the_cerebellum,LMod6_Str,right_molecular_layer_of_the_cerebellum_LMod6_Str
+57,86,18,-0.246153950691223,-0.573836863040924,-4.17672418057919,3.301,left Hypothalamic Region_left,left_hypothalamic_region_left,LMod6_Str,left_hypothalamic_region_left_LMod6_Str
+61,47,54,0.410256326198578,-6.96802270412445,1.71982748806477,2.91,left Molecular Layer of the Cerebellum_left,left_molecular_layer_of_the_cerebellum_left,LMod6_Str,left_molecular_layer_of_the_cerebellum_left_LMod6_Str
+98,57,34,6.48205138742924,-5.32848787307739,-1.55603455007076,2.702,right Medial Entorhinal Cortex,right_medial_entorhinal_cortex,LMod6_Str,right_medial_entorhinal_cortex_LMod6_Str
+71,68,33,2.05128201842308,-3.52499955892563,-1.71982765197754,2.646,right Substantia Nigra,right_substantia_nigra,LMod6_Str,right_substantia_nigra_LMod6_Str
+79,51,41,3.36410257220268,-6.31220877170563,-0.409482836723328,-7.465,right Molecular Layer of the Cerebellum,right_molecular_layer_of_the_cerebellum_2,LMod6_Str,right_molecular_layer_of_the_cerebellum_2_LMod6_Str
+37,70,37,-3.52820533514023,-3.19709259271622,-1.06465524435043,-6.745,left Dentate Gyrus_left,left_dentate_gyrus_left,LMod6_Str,left_dentate_gyrus_left_LMod6_Str
+32,131,64,-4.34871818125248,6.80406987667084,3.35775850713253,-6.278,left Orbitofrontal Region_left,left_orbitofrontal_region_left,LMod6_Str,left_orbitofrontal_region_left_LMod6_Str
+85,24,62,4.34871798753738,-10.7389528155327,3.03017230331898,-5.87,right Molecular Layer of the Cerebellum,right_molecular_layer_of_the_cerebellum_3,LMod6_Str,right_molecular_layer_of_the_cerebellum_3_LMod6_Str
+58,131,50,-0.0820513814687729,6.80406987667084,1.06465508043766,-5.515,left Olfactory Bulb_left,left_olfactory_bulb_left,LMod6_Str,left_olfactory_bulb_left_LMod6_Str
+60,17,61,0.246153756976128,-11.8866271972656,2.8663792014122,-5.455,left Molecular Layer of the Cerebellum_left,left_molecular_layer_of_the_cerebellum_left_2,LMod6_Str,left_molecular_layer_of_the_cerebellum_left_2_LMod6_Str
+20,103,43,-6.31794901192188,2.21337234973907,-0.0818966329097748,-5.304,left Dysgranular Insular Cortex_left,left_dysgranular_insular_cortex_left,LMod6_Str,left_dysgranular_insular_cortex_left_LMod6_Str
+65,87,46,1.06666660308838,-0.409883379936218,0.409482672810555,-5.158,right Thalamus ,right_thalamus,LMod6_Str,right_thalamus_LMod6_Str
+57,163,67,-0.246153950691223,12.0505813360214,3.84913781285286,-4.929,left Glomerular Layer of the Olfactory Bulb_left,left_glomerular_layer_of_the_olfactory_bulb_left_2,LMod6_Str,left_glomerular_layer_of_the_olfactory_bulb_left_2_LMod6_Str
+52,114,79,-1.06666679680347,4.01686066389084,5.81465503573418,-4.705,left Secondary Motor Cortex_left,left_secondary_motor_cortex_left,LMod6_Str,left_secondary_motor_cortex_left_LMod6_Str
+39,31,66,-3.20000019669533,-9.59127843379974,3.68534471094608,-4.114,left Molecular Layer of the Cerebellum_left,left_molecular_layer_of_the_cerebellum_left_3,LMod6_Str,left_molecular_layer_of_the_cerebellum_left_3_LMod6_Str
+65,82,21,1.06666660308838,-1.22965079545975,-3.68534487485886,-4.039,right Hypothalamic Region,right_hypothalamic_region,LMod6_Str,right_hypothalamic_region_LMod6_Str
+46,80,60,-2.05128221213818,-1.55755776166916,2.70258609950542,-3.892,left Dentate Gyrus_left,left_dentate_gyrus_left_2,LMod6_Str,left_dentate_gyrus_left_2_LMod6_Str
+83,135,59,4.02051284909248,7.45988380908966,2.53879299759865,-3.881,right Dorso Lateral Orbital Cortex,right_dorso_lateral_orbital_cortex,LMod6_Str,right_dorso_lateral_orbital_cortex_LMod6_Str
+70,53,66,1.88717944920063,-5.98430180549622,3.68534471094608,-3.427,right Retosplenial Dysgranular Cortex,right_retosplenial_dysgranular_cortex_2,LMod6_Str,right_retosplenial_dysgranular_cortex_2_LMod6_Str
+96,76,22,6.15384624898434,-2.21337169408798,-3.52155177295208,-3.231,right Amygdalopiriform Cortex,right_amygdalopiriform_cortex,LMod6_Str,right_amygdalopiriform_cortex_LMod6_Str
+34,33,39,-4.02051304280758,-9.26337146759033,-0.73706904053688,-3.23,left Molecular Layer of the Cerebellum_left,left_molecular_layer_of_the_cerebellum_left_4,LMod6_Str,left_molecular_layer_of_the_cerebellum_left_4_LMod6_Str
+101,42,29,6.97435909509659,-7.78779011964798,-2.37500005960464,6.181,right Granule Cell Level of the Cerebellum,right_granule_cell_level_of_the_cerebellum,LMod1_AlcStr,right_granule_cell_level_of_the_cerebellum_LMod1_AlcStr
+21,38,40,-6.15384644269943,-8.4436040520668,-0.573275938630104,6.057,left Molecular Layer of the Cerebellum_left,left_molecular_layer_of_the_cerebellum_left,LMod1_AlcStr,left_molecular_layer_of_the_cerebellum_left_LMod1_AlcStr
+73,62,71,2.37948715686798,-4.50872045755386,4.50431022047997,5.866,right Retosplenial Dysgranular Cortex,right_retosplenial_dysgranular_cortex,LMod1_AlcStr,right_retosplenial_dysgranular_cortex_LMod1_AlcStr
+68,100,73,1.55897431075573,1.72151190042496,4.83189642429352,5.665,right Secondary Motor Cortex,right_secondary_motor_cortex,LMod1_AlcStr,right_secondary_motor_cortex_LMod1_AlcStr
+27,88,34,-5.16923102736473,-0.245929896831512,-1.55603455007076,5.287,left Entorhinal Cortex_left,left_entorhinal_cortex_left,LMod1_AlcStr,left_entorhinal_cortex_left_LMod1_AlcStr
+56,35,54,-0.410256519913673,-8.93546450138092,1.71982748806477,5.239,left Molecular Layer of the Cerebellum_left,left_molecular_layer_of_the_cerebellum_left_2,LMod1_AlcStr,left_molecular_layer_of_the_cerebellum_left_2_LMod1_AlcStr
+40,51,31,-3.03589762747288,-6.31220877170563,-2.04741385579109,5.035,left Middle Cerebellar Peduncle_left ,left_middle_cerebellar_peduncle_left,LMod1_AlcStr,left_middle_cerebellar_peduncle_left_LMod1_AlcStr
+102,74,32,7.13846166431904,-2.54127866029739,-1.88362075388432,4.97,right Lateral Entorhinal Cortex,right_lateral_entorhinal_cortex,LMod1_AlcStr,right_lateral_entorhinal_cortex_LMod1_AlcStr
+66,133,63,1.23076917231083,7.13197684288025,3.19396540522575,4.937,right Secondary Motor Cortex,right_secondary_motor_cortex_2,LMod1_AlcStr,right_secondary_motor_cortex_2_LMod1_AlcStr
+26,111,48,-5.33333359658718,3.52500021457672,0.737068876624107,4.137,left Dysgranular Insular Cortex_left,left_dysgranular_insular_cortex_left,LMod1_AlcStr,left_dysgranular_insular_cortex_left_LMod1_AlcStr
+33,52,59,-4.18461561203003,-6.14825528860092,2.53879299759865,4.019,left Retosplenial Dysgranular Cortex_left,left_retosplenial_dysgranular_cortex_left,LMod1_AlcStr,left_retosplenial_dysgranular_cortex_left_LMod1_AlcStr
+95,57,52,5.98974367976189,-5.32848787307739,1.39224128425121,3.999,right Lateral Entorhinal Cortex,right_lateral_entorhinal_cortex_2,LMod1_AlcStr,right_lateral_entorhinal_cortex_2_LMod1_AlcStr
+89,116,46,5.00512826442719,4.34476763010025,0.409482672810555,3.752,right Dysgranular Insular Cortex,right_dysgranular_insular_cortex,LMod1_AlcStr,right_dysgranular_insular_cortex_LMod1_AlcStr
+48,151,69,-1.72307707369328,10.083139538765,4.17672401666641,3.492,left Olfactory Bulb_left,left_olfactory_bulb_left,LMod1_AlcStr,left_olfactory_bulb_left_LMod1_AlcStr
+79,85,52,3.36410257220268,-0.73779034614563,1.39224128425121,3.392,right Thalamus ,right_thalamus,LMod1_AlcStr,right_thalamus_LMod1_AlcStr
+39,83,55,-3.20000019669533,-1.06569731235504,1.88362058997154,3.245,left Thalamus_left ,left_thalamus_left,LMod1_AlcStr,left_thalamus_left_LMod1_AlcStr
+74,72,27,2.54358972609043,-2.86918562650681,-2.7025862634182,3.138,right Dentate Gyrus,right_dentate_gyrus,LMod1_AlcStr,right_dentate_gyrus_LMod1_AlcStr
+79,32,46,3.36410257220268,-9.42732495069504,0.409482672810555,2.977,right Granule Cell Level of the Cerebellum,right_granule_cell_level_of_the_cerebellum_2,LMod1_AlcStr,right_granule_cell_level_of_the_cerebellum_2_LMod1_AlcStr
+79,135,53,3.36410257220268,7.45988380908966,1.55603438615799,-7.444,right Dorso Lateral Orbital Cortex,right_dorso_lateral_orbital_cortex,LMod1_AlcStr,right_dorso_lateral_orbital_cortex_LMod1_AlcStr
+73,33,70,2.37948715686798,-9.26337146759033,4.34051711857319,-7.302,right Molecular Layer of the Cerebellum,right_molecular_layer_of_the_cerebellum,LMod1_AlcStr,right_molecular_layer_of_the_cerebellum_LMod1_AlcStr
+82,82,35,3.85641027987003,-1.22965079545975,-1.39224144816399,-7.096,right Cornu Ammonis 3,right_cornu_ammonis_3,LMod1_AlcStr,right_cornu_ammonis_3_LMod1_AlcStr
+29,64,35,-4.84102588891983,-4.18081349134445,-1.39224144816399,-6.609,left Perirhinal Area 36_left,left_perirhinal_area_36_left,LMod1_AlcStr,left_perirhinal_area_36_left_LMod1_AlcStr
+38,132,52,-3.36410276591778,6.96802335977554,1.39224128425121,-6.207,left PreLimbic System_left,left_pre_limbic_system_left,LMod1_AlcStr,left_pre_limbic_system_left_LMod1_AlcStr
+60,74,61,0.246153756976128,-2.54127866029739,2.8663792014122,-6.016,left Subiculum_left,left_subiculum_left,LMod1_AlcStr,left_subiculum_left_LMod1_AlcStr
+47,30,69,-1.88717964291573,-9.75523191690445,4.17672401666641,-5.731,left Molecular Layer of the Cerebellum_left,left_molecular_layer_of_the_cerebellum_left_3,LMod1_AlcStr,left_molecular_layer_of_the_cerebellum_left_3_LMod1_AlcStr
+59,158,54,0.0820511877536774,11.2308139204979,1.71982748806477,-4.813,right Glomerular Layer of the Olfactory Bulb,right_glomerular_layer_of_the_olfactory_bulb,LMod1_AlcStr,right_glomerular_layer_of_the_olfactory_bulb_LMod1_AlcStr
+57,110,59,-0.246153950691223,3.36104673147202,2.53879299759865,-4.722,left Secondary Cingular Cortex_left,left_secondary_cingular_cortex_left,LMod1_AlcStr,left_secondary_cingular_cortex_left_LMod1_AlcStr
+60,91,42,0.246153756976128,0.245930552482605,-0.245689734816551,-4.615,right Hypothalamic Region,right_hypothalamic_region,LMod1_AlcStr,right_hypothalamic_region_LMod1_AlcStr
+102,103,41,7.13846166431904,2.21337234973907,-0.409482836723328,-4.221,right Dysgranular Insular Cortex,right_dysgranular_insular_cortex_2,LMod1_AlcStr,right_dysgranular_insular_cortex_2_LMod1_AlcStr
+97,39,54,6.31794881820679,-8.2796505689621,1.71982748806477,-3.947,right Molecular Layer of the Cerebellum,right_molecular_layer_of_the_cerebellum_2,LMod1_AlcStr,right_molecular_layer_of_the_cerebellum_2_LMod1_AlcStr
+60,18,47,0.246153756976128,-11.7226737141609,0.573275774717331,-3.525,left Granule Cell Level of the Cerebellum_left,left_granule_cell_level_of_the_cerebellum_left,LMod1_AlcStr,left_granule_cell_level_of_the_cerebellum_left_LMod1_AlcStr
+34,102,34,-4.02051304280758,2.04941886663437,-1.55603455007076,-3.053,left Entorhinal Cortex_left,left_entorhinal_cortex_left_2,LMod1_AlcStr,left_entorhinal_cortex_left_2_LMod1_AlcStr
+74,97,80,2.54358972609043,1.22965145111084,5.97844813764095,-2.92,right Primary Motor Cortex,right_primary_motor_cortex,LMod1_AlcStr,right_primary_motor_cortex_LMod1_AlcStr
+99,65,27,6.64615395665169,-4.01686000823975,-2.7025862634182,-2.86,right Amygdalohyppocampic Area,right_amygdalohyppocampic_area,LMod1_AlcStr,right_amygdalohyppocampic_area_LMod1_AlcStr
+48,96,80,-1.72307707369328,1.06569796800613,5.97844813764095,-2.833,left Primary Motor Cortex_left,left_primary_motor_cortex_left,LMod1_AlcStr,left_primary_motor_cortex_left_LMod1_AlcStr
+83,105,25,4.02051284909248,2.54127931594849,-3.03017246723175,-2.632,right Entorhinal Cortex,right_entorhinal_cortex,LMod1_AlcStr,right_entorhinal_cortex_LMod1_AlcStr
+39,67,34,-3.20000019669533,-3.68895304203033,-1.55603455007076,5.51,left Dentate Gyrus_left,left_dentate_gyrus_left,LMod4_AlcStr,left_dentate_gyrus_left_LMod4_AlcStr
+57,137,66,-0.246153950691223,7.78779077529907,3.68534471094608,5.132,left Frontal Association Cortex_left,left_frontal_association_cortex_left,LMod4_AlcStr,left_frontal_association_cortex_left_LMod4_AlcStr
+80,69,33,3.52820514142513,-3.36104607582092,-1.71982765197754,4.883,right Dentate Gyrus,right_dentate_gyrus,LMod4_AlcStr,right_dentate_gyrus_LMod4_AlcStr
+17,38,39,-6.81025671958923,-8.4436040520668,-0.73706904053688,4.613,left Granule Cell Level of the Cerebellum_left,left_granule_cell_level_of_the_cerebellum_left,LMod4_AlcStr,left_granule_cell_level_of_the_cerebellum_left_LMod4_AlcStr
+23,101,46,-5.82564130425453,1.88546538352966,0.409482672810555,4.244,left Dysgranular Insular Cortex_left,left_dysgranular_insular_cortex_left,LMod4_AlcStr,left_dysgranular_insular_cortex_left_LMod4_AlcStr
+59,83,24,0.0820511877536774,-1.06569731235504,-3.19396556913853,3.862,left Hypothalamic Region_left,left_hypothalamic_region_left,LMod4_AlcStr,left_hypothalamic_region_left_LMod4_AlcStr
+57,48,46,-0.246153950691223,-6.80406922101974,0.409482672810555,3.803,left Molecular Layer of the Cerebellum_left,left_molecular_layer_of_the_cerebellum_left,LMod4_AlcStr,left_molecular_layer_of_the_cerebellum_left_LMod4_AlcStr
+92,40,41,5.49743597209454,-8.11569708585739,-0.409482836723328,3.471,right Granule Cell Level of the Cerebellum,right_granule_cell_level_of_the_cerebellum,LMod4_AlcStr,right_granule_cell_level_of_the_cerebellum_LMod4_AlcStr
+75,75,67,2.70769229531288,-2.37732517719269,3.84913781285286,3.411,right Cornu Ammonis 1,right_cornu_ammonis_1,LMod4_AlcStr,right_cornu_ammonis_1_LMod4_AlcStr
+82,22,61,3.85641027987003,-11.0668597817421,2.8663792014122,3.389,right Molecular Layer of the Cerebellum,right_molecular_layer_of_the_cerebellum,LMod4_AlcStr,right_molecular_layer_of_the_cerebellum_LMod4_AlcStr
+73,38,70,2.37948715686798,-8.4436040520668,4.34051711857319,-5.176,right Molecular Layer of the Cerebellum,right_molecular_layer_of_the_cerebellum_2,LMod4_AlcStr,right_molecular_layer_of_the_cerebellum_2_LMod4_AlcStr
+82,113,52,3.85641027987003,3.85290718078613,1.39224128425121,-4.889,right Striatum,right_striatum,LMod4_AlcStr,right_striatum_LMod4_AlcStr
+60,146,50,0.246153756976128,9.26337212324142,1.06465508043766,-4.591,right Glomerular Layer of the Olfactory Bulb,right_glomerular_layer_of_the_olfactory_bulb,LMod4_AlcStr,right_glomerular_layer_of_the_olfactory_bulb_LMod4_AlcStr
+87,42,29,4.67692312598228,-7.78779011964798,-2.37500005960464,-4.152,right Granule Cell Level of the Cerebellum,right_granule_cell_level_of_the_cerebellum_2,LMod4_AlcStr,right_granule_cell_level_of_the_cerebellum_2_LMod4_AlcStr
+34,40,29,-4.02051304280758,-8.11569708585739,-2.37500005960464,-4.096,left Granule Cell Level of the Cerebellum_left,left_granule_cell_level_of_the_cerebellum_left_2,LMod4_AlcStr,left_granule_cell_level_of_the_cerebellum_left_2_LMod4_AlcStr
+56,89,19,-0.410256519913673,-0.0819764137268066,-4.01293107867241,-4.034,left Hypothalamic Region_left,left_hypothalamic_region_left_2,LMod4_AlcStr,left_hypothalamic_region_left_2_LMod4_AlcStr
+49,88,65,-1.55897450447083,-0.245929896831512,3.52155160903931,-3.975,left Cornu Ammonis 2_left,left_cornu_ammonis_2_left,LMod4_AlcStr,left_cornu_ammonis_2_left_LMod4_AlcStr
+101,90,35,6.97435909509659,0.0819770693778992,-1.39224144816399,-3.64,right Posterior Agralunar Insular Cortex,right_posterior_agralunar_insular_cortex,LMod4_AlcStr,right_posterior_agralunar_insular_cortex_LMod4_AlcStr
+66,61,76,1.23076917231083,-4.67267394065857,5.32327573001385,-3.466,right Retosplenial Dysgranular Cortex,right_retosplenial_dysgranular_cortex,LMod4_AlcStr,right_retosplenial_dysgranular_cortex_LMod4_AlcStr
+17,78,33,-6.81025671958923,-1.88546472787857,-1.71982765197754,-3.403,left Lateral Entorhinal Cortex_left,left_lateral_entorhinal_cortex_left,LMod4_AlcStr,left_lateral_entorhinal_cortex_left_LMod4_AlcStr
+24,39,40,-5.66153873503208,-8.2796505689621,-0.573275938630104,8.202,left Molecular Layer of the Cerebellum_left,left_molecular_layer_of_the_cerebellum_left,LMod6_AlcStr,left_molecular_layer_of_the_cerebellum_left_LMod6_AlcStr
+28,89,35,-5.00512845814228,-0.0819764137268066,-1.39224144816399,7.505,left Entorhinal Cortex_left,left_entorhinal_cortex_left,LMod6_AlcStr,left_entorhinal_cortex_left_LMod6_AlcStr
+74,64,71,2.54358972609043,-4.18081349134445,4.50431022047997,5.878,right Retosplenial Dysgranular Cortex,right_retosplenial_dysgranular_cortex,LMod6_AlcStr,right_retosplenial_dysgranular_cortex_LMod6_AlcStr
+44,106,71,-2.37948735058308,2.70523279905319,4.50431022047997,5.803,left Primary Motor Cortex_left,left_primary_motor_cortex_left,LMod6_AlcStr,left_primary_motor_cortex_left_LMod6_AlcStr
+56,35,55,-0.410256519913673,-8.93546450138092,1.88362058997154,5.613,left Molecular Layer of the Cerebellum_left,left_molecular_layer_of_the_cerebellum_left_2,LMod6_AlcStr,left_molecular_layer_of_the_cerebellum_left_2_LMod6_AlcStr
+33,63,62,-4.18461561203003,-4.34476697444916,3.03017230331898,5.599,left Cornu Ammonis 1_left,left_cornu_ammonis_1_left,LMod6_AlcStr,left_cornu_ammonis_1_left_LMod6_AlcStr
+76,108,69,2.87179486453533,3.0331397652626,4.17672401666641,5.471,right Primary Motor Cortex,right_primary_motor_cortex,LMod6_AlcStr,right_primary_motor_cortex_LMod6_AlcStr
+68,147,67,1.55897431075573,9.42732560634613,3.84913781285286,5.356,right Olfactory Bulb,right_olfactory_bulb,LMod6_AlcStr,right_olfactory_bulb_LMod6_AlcStr
+27,111,48,-5.16923102736473,3.52500021457672,0.737068876624107,4.932,left Dysgranular Insular Cortex_left,left_dysgranular_insular_cortex_left,LMod6_AlcStr,left_dysgranular_insular_cortex_left_LMod6_AlcStr
+74,72,27,2.54358972609043,-2.86918562650681,-2.7025862634182,4.778,right Dentate Gyrus,right_dentate_gyrus,LMod6_AlcStr,right_dentate_gyrus_LMod6_AlcStr
+93,41,38,5.66153854131699,-7.95174360275269,-0.900862142443657,4.333,right Molecular Layer of the Cerebellum,right_molecular_layer_of_the_cerebellum,LMod6_AlcStr,right_molecular_layer_of_the_cerebellum_LMod6_AlcStr
+90,90,46,5.16923083364964,0.0819770693778992,0.409482672810555,3.156,right Striatum,right_striatum,LMod6_AlcStr,right_striatum_LMod6_AlcStr
+83,113,31,4.02051284909248,3.85290718078613,-2.04741385579109,3.149,right Entorhinal Cortex,right_entorhinal_cortex,LMod6_AlcStr,right_entorhinal_cortex_LMod6_AlcStr
+39,59,28,-3.20000019669533,-5.00058090686798,-2.53879316151142,2.971,left Middle Cerebellar Peduncle_left ,left_middle_cerebellar_peduncle_left,LMod6_AlcStr,left_middle_cerebellar_peduncle_left_LMod6_AlcStr
+71,37,68,2.05128201842308,-8.60755753517151,4.01293091475964,-7.925,right Molecular Layer of the Cerebellum,right_molecular_layer_of_the_cerebellum_2,LMod6_AlcStr,right_molecular_layer_of_the_cerebellum_2_LMod6_AlcStr
+60,90,44,0.246153756976128,0.0819770693778992,0.0818964689970016,-7.35,right Hypothalamic Region,right_hypothalamic_region,LMod6_AlcStr,right_hypothalamic_region_LMod6_AlcStr
+37,72,39,-3.52820533514023,-2.86918562650681,-0.73706904053688,-7.22,left Dentate Gyrus_left,left_dentate_gyrus_left,LMod6_AlcStr,left_dentate_gyrus_left_LMod6_AlcStr
+29,126,65,-4.84102588891983,5.98430246114731,3.52155160903931,-6.875,left Primary Motor Cortex_left,left_primary_motor_cortex_left_2,LMod6_AlcStr,left_primary_motor_cortex_left_2_LMod6_AlcStr
+84,82,35,4.18461541831493,-1.22965079545975,-1.39224144816399,-6.23,right Cornu Ammonis 3,right_cornu_ammonis_3,LMod6_AlcStr,right_cornu_ammonis_3_LMod6_AlcStr
+58,162,65,-0.0820513814687729,11.8866278529167,3.52155160903931,-6.03,right Glomerular Layer of the Olfactory Bulb,right_glomerular_layer_of_the_olfactory_bulb,LMod6_AlcStr,right_glomerular_layer_of_the_olfactory_bulb_LMod6_AlcStr
+59,122,47,0.0820511877536774,5.32848852872849,0.573275774717331,-6.028,right PreLimbic System,right_pre_limbic_system,LMod6_AlcStr,right_pre_limbic_system_LMod6_AlcStr
+45,29,68,-2.21538478136063,-9.91918540000916,4.01293091475964,-5.587,left Molecular Layer of the Cerebellum_left,left_molecular_layer_of_the_cerebellum_left_3,LMod6_AlcStr,left_molecular_layer_of_the_cerebellum_left_3_LMod6_AlcStr
+85,52,39,4.34871798753738,-6.14825528860092,-0.73706904053688,-5.094,right Middle Cerebellar Peduncle ,right_middle_cerebellar_peduncle,LMod6_AlcStr,right_middle_cerebellar_peduncle_LMod6_AlcStr
+58,18,43,-0.0820513814687729,-11.7226737141609,-0.0818966329097748,-5.091,left Molecular Layer of the Cerebellum_left,left_molecular_layer_of_the_cerebellum_left_4,LMod6_AlcStr,left_molecular_layer_of_the_cerebellum_left_4_LMod6_AlcStr
+46,57,60,-2.05128221213818,-5.32848787307739,2.70258609950542,-4.996,left Parasubiculum_left,left_parasubiculum_left,LMod6_AlcStr,left_parasubiculum_left_LMod6_AlcStr
+34,103,54,-4.02051304280758,2.21337234973907,1.71982748806477,-4.65,left Striatum_left,left_striatum_left,LMod6_AlcStr,left_striatum_left_LMod6_AlcStr
+83,135,58,4.02051284909248,7.45988380908966,2.37499989569187,-4.575,right Dorso Lateral Orbital Cortex,right_dorso_lateral_orbital_cortex,LMod6_AlcStr,right_dorso_lateral_orbital_cortex_LMod6_AlcStr
+16,92,41,-6.97435928881168,0.409884035587311,-0.409482836723328,-4.513,left Dysgranular Insular Cortex_left,left_dysgranular_insular_cortex_left_2,LMod6_AlcStr,left_dysgranular_insular_cortex_left_2_LMod6_AlcStr
+83,110,54,4.02051284909248,3.36104673147202,1.71982748806477,-4.295,right Striatum,right_striatum_2,LMod6_AlcStr,right_striatum_2_LMod6_AlcStr
+90,25,58,5.16923083364964,-10.574999332428,2.37499989569187,-3.479,right Molecular Layer of the Cerebellum,right_molecular_layer_of_the_cerebellum_3,LMod6_AlcStr,right_molecular_layer_of_the_cerebellum_3_LMod6_AlcStr
+44,44,38,-2.37948735058308,-7.45988315343857,-0.900862142443657,-3.338,left Granule Cell Level of the Cerebellum_left,left_granule_cell_level_of_the_cerebellum_left,LMod6_AlcStr,left_granule_cell_level_of_the_cerebellum_left_LMod6_AlcStr
+47,87,81,-1.88717964291573,-0.409883379936218,6.14224123954773,-3.028,left Primary Motor Cortex_left,left_primary_motor_cortex_left_3,LMod6_AlcStr,left_primary_motor_cortex_left_3_LMod6_AlcStr
+100,101,38,6.81025652587414,1.88546538352966,-0.900862142443657,-2.987,right Posterior Agralunar Insular Cortex,right_posterior_agralunar_insular_cortex,LMod6_AlcStr,right_posterior_agralunar_insular_cortex_LMod6_AlcStr
+55,114,79,-0.574359089136124,4.01686066389084,5.81465503573418,-2.976,left Primary Cingular Cortex_left,left_primary_cingular_cortex_left,LMod6_AlcStr,left_primary_cingular_cortex_left_LMod6_AlcStr
+43,87,58,-2.54358991980553,-0.409883379936218,2.37499989569187,5.599,left Dentate Gyrus_left,left_dentate_gyrus_left,LMod3_Alc,left_dentate_gyrus_left_LMod3_Alc
+88,56,42,4.84102569520473,-5.4924413561821,-0.245689734816551,5.097,right Perirhinal Area 36,right_perirhinal_area_36,LMod3_Alc,right_perirhinal_area_36_LMod3_Alc
+35,42,29,-3.85641047358513,-7.78779011964798,-2.37500005960464,5.01,left Granule Cell Level of the Cerebellum_left,left_granule_cell_level_of_the_cerebellum_left,LMod3_Alc,left_granule_cell_level_of_the_cerebellum_left_LMod3_Alc
+45,150,59,-2.21538478136063,9.91918605566025,2.53879299759865,4.727,left Glomerular Layer of the Olfactory Bulb_left,left_glomerular_layer_of_the_olfactory_bulb_left,LMod3_Alc,left_glomerular_layer_of_the_olfactory_bulb_left_LMod3_Alc
+75,86,64,2.70769229531288,-0.573836863040924,3.35775850713253,4.411,right Cornu Ammonis 2,right_cornu_ammonis_2,LMod3_Alc,right_cornu_ammonis_2_LMod3_Alc
+18,73,38,-6.64615415036678,-2.7052321434021,-0.900862142443657,4.201,left Lateral Entorhinal Cortex external part_left,left_lateral_entorhinal_cortex_external_part_left,LMod3_Alc,left_lateral_entorhinal_cortex_external_part_left_LMod3_Alc
+35,127,53,-3.85641047358513,6.14825594425201,1.55603438615799,4.123,left Agranular Insular Cortex_left,left_agranular_insular_cortex_left,LMod3_Alc,left_agranular_insular_cortex_left_LMod3_Alc
+64,115,47,0.902564033865929,4.18081414699554,0.573275774717331,3.948,right Striatum,right_striatum,LMod3_Alc,right_striatum_LMod3_Alc
+78,24,38,3.20000000298023,-10.7389528155327,-0.900862142443657,3.615,right Molecular Layer of the Cerebellum,right_molecular_layer_of_the_cerebellum,LMod3_Alc,right_molecular_layer_of_the_cerebellum_LMod3_Alc
+52,36,57,-1.06666679680347,-8.77151101827621,2.2112067937851,3.302,left Molecular Layer of the Cerebellum_left,left_molecular_layer_of_the_cerebellum_left,LMod3_Alc,left_molecular_layer_of_the_cerebellum_left_LMod3_Alc
+102,91,42,7.13846166431904,0.245930552482605,-0.245689734816551,3.22,right Dysgranular Insular Cortex,right_dysgranular_insular_cortex,LMod3_Alc,right_dysgranular_insular_cortex_LMod3_Alc
+66,93,21,1.23076917231083,0.573837518692017,-3.68534487485886,-4.901,right Hypothalamic Region,right_hypothalamic_region,LMod3_Alc,right_hypothalamic_region_LMod3_Alc
+76,65,34,2.87179486453533,-4.01686000823975,-1.55603455007076,-4.848,right Substantia Nigra,right_substantia_nigra,LMod3_Alc,right_substantia_nigra_LMod3_Alc
+47,17,50,-1.88717964291573,-11.8866271972656,1.06465508043766,-4.687,left Molecular Layer of the Cerebellum_left,left_molecular_layer_of_the_cerebellum_left_2,LMod3_Alc,left_molecular_layer_of_the_cerebellum_left_2_LMod3_Alc
+72,135,66,2.21538458764553,7.45988380908966,3.68534471094608,-4.61,right Frontal Association Cortex,right_frontal_association_cortex,LMod3_Alc,right_frontal_association_cortex_LMod3_Alc
+90,30,62,5.16923083364964,-9.75523191690445,3.03017230331898,-4.567,right Molecular Layer of the Cerebellum,right_molecular_layer_of_the_cerebellum_2,LMod3_Alc,right_molecular_layer_of_the_cerebellum_2_LMod3_Alc
+38,97,22,-3.36410276591778,1.22965145111084,-3.52155177295208,-4.491,left Entorhinal Cortex_left,left_entorhinal_cortex_left,LMod3_Alc,left_entorhinal_cortex_left_LMod3_Alc
+38,50,57,-3.36410276591778,-6.47616225481033,2.2112067937851,-4.41,left Retosplenial Dysgranular Cortex_left,left_retosplenial_dysgranular_cortex_left,LMod3_Alc,left_retosplenial_dysgranular_cortex_left_LMod3_Alc
+48,169,68,-1.72307707369328,13.0343022346497,4.01293091475964,-4.053,left Glomerular Layer of the Olfactory Bulb_left,left_glomerular_layer_of_the_olfactory_bulb_left_2,LMod3_Alc,left_glomerular_layer_of_the_olfactory_bulb_left_2_LMod3_Alc
+73,64,64,2.37948715686798,-4.18081349134445,3.35775850713253,-3.668,right Retrosplenial Granular Cortex Part A,right_retrosplenial_granular_cortex_part_a,LMod3_Alc,right_retrosplenial_granular_cortex_part_a_LMod3_Alc
+46,96,80,-2.05128221213818,1.06569796800613,5.97844813764095,-3.58,left Primary Motor Cortex_left,left_primary_motor_cortex_left,LMod3_Alc,left_primary_motor_cortex_left_LMod3_Alc
+31,112,51,-4.51282075047493,3.68895369768143,1.22844818234444,-3.324,left Dysgranular Insular Cortex_left,left_dysgranular_insular_cortex_left,LMod3_Alc,left_dysgranular_insular_cortex_left_LMod3_Alc
+56,127,38,-0.410256519913673,6.14825594425201,-0.900862142443657,-3.279,left Olfactory Bulb_left,left_olfactory_bulb_left,LMod3_Alc,left_olfactory_bulb_left_LMod3_Alc
+78,109,59,3.20000000298023,3.19709324836731,2.53879299759865,-3.122,right Striatum,right_striatum_2,LMod3_Alc,right_striatum_2_LMod3_Alc
+41,59,27,-2.87179505825043,-5.00058090686798,-2.7025862634182,-3.034,left Middle Cerebellar Peduncle_left ,left_middle_cerebellar_peduncle_left,LMod3_Alc,left_middle_cerebellar_peduncle_left_LMod3_Alc
+31,69,31,-4.51282075047493,-3.36104607582092,-2.04741385579109,6.412,left Amygdalopiriform Cortex_left,left_amygdalopiriform_cortex_left,LMod5_Alc,left_amygdalopiriform_cortex_left_LMod5_Alc
+92,36,42,5.49743597209454,-8.77151101827621,-0.245689734816551,6.387,right Granule Cell Level of the Cerebellum,right_granule_cell_level_of_the_cerebellum,LMod5_Alc,right_granule_cell_level_of_the_cerebellum_LMod5_Alc
+81,76,32,3.69230771064758,-2.21337169408798,-1.88362075388432,5.176,right Cornu Ammonis 3,right_cornu_ammonis_3,LMod5_Alc,right_cornu_ammonis_3_LMod5_Alc
+61,51,42,0.410256326198578,-6.31220877170563,-0.245689734816551,5.026,right Molecular Layer of the Cerebellum,right_molecular_layer_of_the_cerebellum,LMod5_Alc,right_molecular_layer_of_the_cerebellum_LMod5_Alc
+39,84,63,-3.20000019669533,-0.901743829250336,3.19396540522575,4.494,left Cornu Ammonis 3_left,left_cornu_ammonis_3_left,LMod5_Alc,left_cornu_ammonis_3_left_LMod5_Alc
+64,114,47,0.902564033865929,4.01686066389084,0.573275774717331,4.491,right Striatum,right_striatum,LMod5_Alc,right_striatum_LMod5_Alc
+62,86,50,0.574358895421028,-0.573836863040924,1.06465508043766,4.056,right Dentate Gyrus,right_dentate_gyrus,LMod5_Alc,right_dentate_gyrus_LMod5_Alc
+59,148,48,0.0820511877536774,9.59127908945084,0.737068876624107,4.012,right Glomerular Layer of the Olfactory Bulb,right_glomerular_layer_of_the_olfactory_bulb,LMod5_Alc,right_glomerular_layer_of_the_olfactory_bulb_LMod5_Alc
+49,123,73,-1.55897450447083,5.49244201183319,4.83189642429352,3.93,left Primary Motor Cortex_left,left_primary_motor_cortex_left,LMod5_Alc,left_primary_motor_cortex_left_LMod5_Alc
+54,17,40,-0.738461658358574,-11.8866271972656,-0.573275938630104,3.427,left Molecular Layer of the Cerebellum_left,left_molecular_layer_of_the_cerebellum_left,LMod5_Alc,left_molecular_layer_of_the_cerebellum_left_LMod5_Alc
+41,51,33,-2.87179505825043,-6.31220877170563,-1.71982765197754,-5.136,left Middle Cerebellar Peduncle_left ,left_middle_cerebellar_peduncle_left,LMod5_Alc,left_middle_cerebellar_peduncle_left_LMod5_Alc
+49,80,30,-1.55897450447083,-1.55755776166916,-2.21120695769787,-4.883,left Hypothalamic Region_left,left_hypothalamic_region_left,LMod5_Alc,left_hypothalamic_region_left_LMod5_Alc
+80,104,56,3.52820514142513,2.37732583284378,2.04741369187832,-4.48,right Striatum,right_striatum_2,LMod5_Alc,right_striatum_2_LMod5_Alc
+32,100,26,-4.34871818125248,1.72151190042496,-2.86637936532497,-4.33,left Entorhinal Cortex_left,left_entorhinal_cortex_left,LMod5_Alc,left_entorhinal_cortex_left_LMod5_Alc
+67,29,68,1.39487174153328,-9.91918540000916,4.01293091475964,-4.295,right Molecular Layer of the Cerebellum,right_molecular_layer_of_the_cerebellum_2,LMod5_Alc,right_molecular_layer_of_the_cerebellum_2_LMod5_Alc
+80,64,44,3.52820514142513,-4.18081349134445,0.0818964689970016,-4.281,right Perirhinal Area 35,right_perirhinal_area_35,LMod5_Alc,right_perirhinal_area_35_LMod5_Alc
+45,70,52,-2.21538478136063,-3.19709259271622,1.39224128425121,-4.257,left Thalamus_left ,left_thalamus_left,LMod5_Alc,left_thalamus_left_LMod5_Alc
+41,32,64,-2.87179505825043,-9.42732495069504,3.35775850713253,-4.207,left Molecular Layer of the Cerebellum_left,left_molecular_layer_of_the_cerebellum_left_2,LMod5_Alc,left_molecular_layer_of_the_cerebellum_left_2_LMod5_Alc
+96,102,32,6.15384624898434,2.04941886663437,-1.88362075388432,-3.956,right Entorhinal Cortex,right_entorhinal_cortex,LMod5_Alc,right_entorhinal_cortex_LMod5_Alc
+33,113,52,-4.18461561203003,3.85290718078613,1.39224128425121,-3.895,left Dysgranular Insular Cortex_left,left_dysgranular_insular_cortex_left,LMod5_Alc,left_dysgranular_insular_cortex_left_LMod5_Alc
+45,87,76,-2.21538478136063,-0.409883379936218,5.32327573001385,-3.841,left Primary Motor Cortex_left,left_primary_motor_cortex_left_2,LMod5_Alc,left_primary_motor_cortex_left_2_LMod5_Alc
+65,44,48,1.06666660308838,-7.45988315343857,0.737068876624107,-3.696,right Molecular Layer of the Cerebellum,right_molecular_layer_of_the_cerebellum_3,LMod5_Alc,right_molecular_layer_of_the_cerebellum_3_LMod5_Alc
+67,97,29,1.39487174153328,1.22965145111084,-2.37500005960464,-3.606,right Hypothalamic Region,right_hypothalamic_region,LMod5_Alc,right_hypothalamic_region_LMod5_Alc
+36,44,31,-3.69230790436268,-7.45988315343857,-2.04741385579109,5.954,left Granule Cell Level of the Cerebellum_left,left_granule_cell_level_of_the_cerebellum_left,LMod3_Str,left_granule_cell_level_of_the_cerebellum_left_LMod3_Str
+96,72,49,6.15384624898434,-2.86918562650681,0.900861978530884,4.575,right Cornu Ammonis 1,right_cornu_ammonis_1,LMod3_Str,right_cornu_ammonis_1_LMod3_Str
+98,100,42,6.48205138742924,1.72151190042496,-0.245689734816551,4.55,right Dysgranular Insular Cortex,right_dysgranular_insular_cortex,LMod3_Str,right_dysgranular_insular_cortex_LMod3_Str
+81,123,44,3.69230771064758,5.49244201183319,0.0818964689970016,4.484,right PreLimbic System,right_pre_limbic_system,LMod3_Str,right_pre_limbic_system_LMod3_Str
+37,127,55,-3.52820533514023,6.14825594425201,1.88362058997154,4.393,left Agranular Insular Cortex_left,left_agranular_insular_cortex_left,LMod3_Str,left_agranular_insular_cortex_left_LMod3_Str
+28,70,50,-5.00512845814228,-3.19709259271622,1.06465508043766,4.289,left Cornu Ammonis 1_left,left_cornu_ammonis_1_left,LMod3_Str,left_cornu_ammonis_1_left_LMod3_Str
+104,43,31,7.46666680276394,-7.62383663654327,-2.04741385579109,4.208,right Granule Cell Level of the Cerebellum,right_granule_cell_level_of_the_cerebellum,LMod3_Str,right_granule_cell_level_of_the_cerebellum_LMod3_Str
+43,90,55,-2.54358991980553,0.0819770693778992,1.88362058997154,4.167,left Thalamus_left ,left_thalamus_left,LMod3_Str,left_thalamus_left_LMod3_Str
+74,94,52,2.54358972609043,0.737791001796722,1.39224128425121,3.874,right Thalamus ,right_thalamus,LMod3_Str,right_thalamus_LMod3_Str
+78,25,42,3.20000000298023,-10.574999332428,-0.245689734816551,3.848,right Molecular Layer of the Cerebellum,right_molecular_layer_of_the_cerebellum,LMod3_Str,right_molecular_layer_of_the_cerebellum_LMod3_Str
+46,154,56,-2.05128221213818,10.5749999880791,2.04741369187832,3.517,left Olfactory Bulb_left,left_olfactory_bulb_left,LMod3_Str,left_olfactory_bulb_left_LMod3_Str
+81,53,30,3.69230771064758,-5.98430180549622,-2.21120695769787,3.348,right Middle Cerebellar Peduncle ,right_middle_cerebellar_peduncle,LMod3_Str,right_middle_cerebellar_peduncle_LMod3_Str
+57,46,49,-0.246153950691223,-7.13197618722916,0.900861978530884,3.265,left Molecular Layer of the Cerebellum_left,left_molecular_layer_of_the_cerebellum_left,LMod3_Str,left_molecular_layer_of_the_cerebellum_left_LMod3_Str
+34,69,31,-4.02051304280758,-3.36104607582092,-2.04741385579109,-5.648,left Medial Entorhinal Cortex_left,left_medial_entorhinal_cortex_left,LMod3_Str,left_medial_entorhinal_cortex_left_LMod3_Str
+49,125,70,-1.55897450447083,5.8203489780426,4.34051711857319,-4.627,left Primary Motor Cortex_left,left_primary_motor_cortex_left,LMod3_Str,left_primary_motor_cortex_left_LMod3_Str
+82,71,29,3.85641027987003,-3.03313910961151,-2.37500005960464,-4.588,right Subiculum,right_subiculum,LMod3_Str,right_subiculum_LMod3_Str
+60,149,56,0.246153756976128,9.75523257255554,2.04741369187832,-4.314,right Olfactory Bulb,right_olfactory_bulb,LMod3_Str,right_olfactory_bulb_LMod3_Str
+51,15,49,-1.23076936602592,-12.214534163475,0.900861978530884,-4.122,left Molecular Layer of the Cerebellum_left,left_molecular_layer_of_the_cerebellum_left_2,LMod3_Str,left_molecular_layer_of_the_cerebellum_left_2_LMod3_Str
+84,42,65,4.18461541831493,-7.78779011964798,3.52155160903931,-4.092,right Molecular Layer of the Cerebellum,right_molecular_layer_of_the_cerebellum_2,LMod3_Str,right_molecular_layer_of_the_cerebellum_2_LMod3_Str
+67,67,66,1.39487174153328,-3.68895304203033,3.68534471094608,-3.9,right Retrosplenial Granular Cortex Part B,right_retrosplenial_granular_cortex_part_b,LMod3_Str,right_retrosplenial_granular_cortex_part_b_LMod3_Str
+31,94,42,-4.51282075047493,0.737791001796722,-0.245689734816551,-3.851,left Striatum_left,left_striatum_left,LMod3_Str,left_striatum_left_LMod3_Str
+105,64,37,7.63076937198639,-4.18081349134445,-1.06465524435043,-3.583,right Lateral Entorhinal Cortex,right_lateral_entorhinal_cortex,LMod3_Str,right_lateral_entorhinal_cortex_LMod3_Str
+63,101,34,0.738461464643478,1.88546538352966,-1.55603455007076,-3.527,right Hypothalamic Region,right_hypothalamic_region,LMod3_Str,right_hypothalamic_region_LMod3_Str
+52,42,68,-1.06666679680347,-7.78779011964798,4.01293091475964,-3.414,left Molecular Layer of the Cerebellum_left,left_molecular_layer_of_the_cerebellum_left_3,LMod3_Str,left_molecular_layer_of_the_cerebellum_left_3_LMod3_Str
+71,97,80,2.05128201842308,1.22965145111084,5.97844813764095,-3.263,right Primary Motor Cortex,right_primary_motor_cortex,LMod3_Str,right_primary_motor_cortex_LMod3_Str
+49,167,70,-1.55897450447083,12.7063952684402,4.34051711857319,-3.172,left Glomerular Layer of the Olfactory Bulb_left,left_glomerular_layer_of_the_olfactory_bulb_left,LMod3_Str,left_glomerular_layer_of_the_olfactory_bulb_left_LMod3_Str
+41,51,33,-2.87179505825043,-6.31220877170563,-1.71982765197754,5.136,left Middle Cerebellar Peduncle_left ,left_middle_cerebellar_peduncle_left,LMod7_Str,left_middle_cerebellar_peduncle_left_LMod7_Str
+49,80,30,-1.55897450447083,-1.55755776166916,-2.21120695769787,4.883,left Hypothalamic Region_left,left_hypothalamic_region_left,LMod7_Str,left_hypothalamic_region_left_LMod7_Str
+80,104,56,3.52820514142513,2.37732583284378,2.04741369187832,4.48,right Striatum,right_striatum,LMod7_Str,right_striatum_LMod7_Str
+32,100,26,-4.34871818125248,1.72151190042496,-2.86637936532497,4.33,left Entorhinal Cortex_left,left_entorhinal_cortex_left,LMod7_Str,left_entorhinal_cortex_left_LMod7_Str
+67,29,68,1.39487174153328,-9.91918540000916,4.01293091475964,4.295,right Molecular Layer of the Cerebellum,right_molecular_layer_of_the_cerebellum,LMod7_Str,right_molecular_layer_of_the_cerebellum_LMod7_Str
+80,64,44,3.52820514142513,-4.18081349134445,0.0818964689970016,4.281,right Perirhinal Area 35,right_perirhinal_area_35,LMod7_Str,right_perirhinal_area_35_LMod7_Str
+45,70,52,-2.21538478136063,-3.19709259271622,1.39224128425121,4.257,left Thalamus_left ,left_thalamus_left,LMod7_Str,left_thalamus_left_LMod7_Str
+41,32,64,-2.87179505825043,-9.42732495069504,3.35775850713253,4.207,left Molecular Layer of the Cerebellum_left,left_molecular_layer_of_the_cerebellum_left,LMod7_Str,left_molecular_layer_of_the_cerebellum_left_LMod7_Str
+96,102,32,6.15384624898434,2.04941886663437,-1.88362075388432,3.956,right Entorhinal Cortex,right_entorhinal_cortex,LMod7_Str,right_entorhinal_cortex_LMod7_Str
+33,113,52,-4.18461561203003,3.85290718078613,1.39224128425121,3.895,left Dysgranular Insular Cortex_left,left_dysgranular_insular_cortex_left,LMod7_Str,left_dysgranular_insular_cortex_left_LMod7_Str
+45,87,76,-2.21538478136063,-0.409883379936218,5.32327573001385,3.841,left Primary Motor Cortex_left,left_primary_motor_cortex_left,LMod7_Str,left_primary_motor_cortex_left_LMod7_Str
+65,44,48,1.06666660308838,-7.45988315343857,0.737068876624107,3.696,right Molecular Layer of the Cerebellum,right_molecular_layer_of_the_cerebellum_2,LMod7_Str,right_molecular_layer_of_the_cerebellum_2_LMod7_Str
+67,97,29,1.39487174153328,1.22965145111084,-2.37500005960464,3.606,right Hypothalamic Region,right_hypothalamic_region,LMod7_Str,right_hypothalamic_region_LMod7_Str
+31,69,31,-4.51282075047493,-3.36104607582092,-2.04741385579109,-6.412,left Amygdalopiriform Cortex_left,left_amygdalopiriform_cortex_left,LMod7_Str,left_amygdalopiriform_cortex_left_LMod7_Str
+92,36,42,5.49743597209454,-8.77151101827621,-0.245689734816551,-6.387,right Granule Cell Level of the Cerebellum,right_granule_cell_level_of_the_cerebellum,LMod7_Str,right_granule_cell_level_of_the_cerebellum_LMod7_Str
+81,76,32,3.69230771064758,-2.21337169408798,-1.88362075388432,-5.176,right Cornu Ammonis 3,right_cornu_ammonis_3,LMod7_Str,right_cornu_ammonis_3_LMod7_Str
+61,51,42,0.410256326198578,-6.31220877170563,-0.245689734816551,-5.026,right Molecular Layer of the Cerebellum,right_molecular_layer_of_the_cerebellum_3,LMod7_Str,right_molecular_layer_of_the_cerebellum_3_LMod7_Str
+39,84,63,-3.20000019669533,-0.901743829250336,3.19396540522575,-4.494,left Cornu Ammonis 3_left,left_cornu_ammonis_3_left,LMod7_Str,left_cornu_ammonis_3_left_LMod7_Str
+64,114,47,0.902564033865929,4.01686066389084,0.573275774717331,-4.491,right Striatum,right_striatum_2,LMod7_Str,right_striatum_2_LMod7_Str
+62,86,50,0.574358895421028,-0.573836863040924,1.06465508043766,-4.056,right Dentate Gyrus,right_dentate_gyrus,LMod7_Str,right_dentate_gyrus_LMod7_Str
+59,148,48,0.0820511877536774,9.59127908945084,0.737068876624107,-4.012,right Glomerular Layer of the Olfactory Bulb,right_glomerular_layer_of_the_olfactory_bulb,LMod7_Str,right_glomerular_layer_of_the_olfactory_bulb_LMod7_Str
+49,123,73,-1.55897450447083,5.49244201183319,4.83189642429352,-3.93,left Primary Motor Cortex_left,left_primary_motor_cortex_left_2,LMod7_Str,left_primary_motor_cortex_left_2_LMod7_Str
+54,17,40,-0.738461658358574,-11.8866271972656,-0.573275938630104,-3.427,left Molecular Layer of the Cerebellum_left,left_molecular_layer_of_the_cerebellum_left_2,LMod7_Str,left_molecular_layer_of_the_cerebellum_left_2_LMod7_Str
+88,58,40,4.84102569520473,-5.16453438997269,-0.573275938630104,7.46,right Perirhinal Area 36,right_perirhinal_area_36,LMod3_AlcStr,right_perirhinal_area_36_LMod3_AlcStr
+37,45,32,-3.52820533514023,-7.29592967033386,-1.88362075388432,6.272,left Granule Cell Level of the Cerebellum_left,left_granule_cell_level_of_the_cerebellum_left,LMod3_AlcStr,left_granule_cell_level_of_the_cerebellum_left_LMod3_AlcStr
+77,84,47,3.03589743375778,-0.901743829250336,0.573275774717331,5.987,right Thalamus ,right_thalamus,LMod3_AlcStr,right_thalamus_LMod3_AlcStr
+44,156,61,-2.37948735058308,10.9029069542885,2.8663792014122,5.662,left Glomerular Layer of the Olfactory Bulb_left,left_glomerular_layer_of_the_olfactory_bulb_left,LMod3_AlcStr,left_glomerular_layer_of_the_olfactory_bulb_left_LMod3_AlcStr
+79,25,41,3.36410257220268,-10.574999332428,-0.409482836723328,4.829,right Molecular Layer of the Cerebellum,right_molecular_layer_of_the_cerebellum,LMod3_AlcStr,right_molecular_layer_of_the_cerebellum_LMod3_AlcStr
+54,85,66,-0.738461658358574,-0.73779034614563,3.68534471094608,4.376,left Cornu Ammonis 1_left,left_cornu_ammonis_1_left,LMod3_AlcStr,left_cornu_ammonis_1_left_LMod3_AlcStr
+60,114,65,0.246153756976128,4.01686066389084,3.52155160903931,4.034,right Secondary Cingular Cortex,right_secondary_cingular_cortex,LMod3_AlcStr,right_secondary_cingular_cortex_LMod3_AlcStr
+66,145,49,1.23076917231083,9.09941864013672,0.900861978530884,3.91,right Olfactory Bulb,right_olfactory_bulb,LMod3_AlcStr,right_olfactory_bulb_LMod3_AlcStr
+22,79,33,-5.98974387347698,-1.72151124477386,-1.71982765197754,3.837,left Lateral Entorhinal Cortex_left,left_lateral_entorhinal_cortex_left,LMod3_AlcStr,left_lateral_entorhinal_cortex_left_LMod3_AlcStr
+97,102,43,6.31794881820679,2.04941886663437,-0.0818966329097748,3.314,right Dysgranular Insular Cortex,right_dysgranular_insular_cortex,LMod3_AlcStr,right_dysgranular_insular_cortex_LMod3_AlcStr
+46,36,58,-2.05128221213818,-8.77151101827621,2.37499989569187,3.275,left Granule Cell Level of the Cerebellum_left,left_granule_cell_level_of_the_cerebellum_left_2,LMod3_AlcStr,left_granule_cell_level_of_the_cerebellum_left_2_LMod3_AlcStr
+66,25,70,1.23076917231083,-10.574999332428,4.34051711857319,2.95,right Molecular Layer of the Cerebellum,right_molecular_layer_of_the_cerebellum_2,LMod3_AlcStr,right_molecular_layer_of_the_cerebellum_2_LMod3_AlcStr
+49,92,25,-1.55897450447083,0.409884035587311,-3.03017246723175,-7.239,left Hypothalamic Region_left,left_hypothalamic_region_left,LMod3_AlcStr,left_hypothalamic_region_left_LMod3_AlcStr
+74,44,67,2.54358972609043,-7.45988315343857,3.84913781285286,-5.93,right Molecular Layer of the Cerebellum,right_molecular_layer_of_the_cerebellum_3,LMod3_AlcStr,right_molecular_layer_of_the_cerebellum_3_LMod3_AlcStr
+32,112,51,-4.34871818125248,3.68895369768143,1.22844818234444,-5.811,left Dysgranular Insular Cortex_left,left_dysgranular_insular_cortex_left,LMod3_AlcStr,left_dysgranular_insular_cortex_left_LMod3_AlcStr
+40,46,64,-3.03589762747288,-7.13197618722916,3.35775850713253,-5.688,left Retosplenial Dysgranular Cortex_left,left_retosplenial_dysgranular_cortex_left,LMod3_AlcStr,left_retosplenial_dysgranular_cortex_left_LMod3_AlcStr
+71,136,66,2.05128201842308,7.62383729219437,3.68534471094608,-5.193,right Frontal Association Cortex,right_frontal_association_cortex,LMod3_AlcStr,right_frontal_association_cortex_LMod3_AlcStr
+62,90,47,0.574358895421028,0.0819770693778992,0.573275774717331,-5.044,right Dentate Gyrus,right_dentate_gyrus,LMod3_AlcStr,right_dentate_gyrus_LMod3_AlcStr
+78,73,32,3.20000000298023,-2.7052321434021,-1.88362075388432,-4.91,right Dentate Gyrus,right_dentate_gyrus_2,LMod3_AlcStr,right_dentate_gyrus_2_LMod3_AlcStr
+105,62,40,7.63076937198639,-4.50872045755386,-0.573275938630104,-4.829,right Lateral Entorhinal Cortex,right_lateral_entorhinal_cortex,LMod3_AlcStr,right_lateral_entorhinal_cortex_LMod3_AlcStr
+83,112,56,4.02051284909248,3.68895369768143,2.04741369187832,-4.213,right Striatum,right_striatum,LMod3_AlcStr,right_striatum_LMod3_AlcStr
+48,170,65,-1.72307707369328,13.1982557177544,3.52155160903931,-4.155,left Glomerular Layer of the Olfactory Bulb_left,left_glomerular_layer_of_the_olfactory_bulb_left_2,LMod3_AlcStr,left_glomerular_layer_of_the_olfactory_bulb_left_2_LMod3_AlcStr
+80,95,20,3.52820514142513,0.901744484901428,-3.84913797676563,-4.041,right Entorhinal Cortex,right_entorhinal_cortex,LMod3_AlcStr,right_entorhinal_cortex_LMod3_AlcStr
+49,16,51,-1.55897450447083,-12.0505806803703,1.22844818234444,-4.034,left Molecular Layer of the Cerebellum_left,left_molecular_layer_of_the_cerebellum_left,LMod3_AlcStr,left_molecular_layer_of_the_cerebellum_left_LMod3_AlcStr
+52,94,80,-1.06666679680347,0.737791001796722,5.97844813764095,-3.962,left Primary Motor Cortex_left,left_primary_motor_cortex_left,LMod3_AlcStr,left_primary_motor_cortex_left_LMod3_AlcStr
+57,130,40,-0.246153950691223,6.64011639356613,-0.573275938630104,-3.682,left Olfactory Bulb_left,left_olfactory_bulb_left,LMod3_AlcStr,left_olfactory_bulb_left_LMod3_AlcStr
+86,19,46,4.51282055675983,-11.5587202310562,0.409482672810555,-3.617,right Molecular Layer of the Cerebellum,right_molecular_layer_of_the_cerebellum_4,LMod3_AlcStr,right_molecular_layer_of_the_cerebellum_4_LMod3_AlcStr
+46,69,33,-2.05128221213818,-3.36104607582092,-1.71982765197754,-3.387,left Substantia Nigra_left,left_substantia_nigra_left,LMod3_AlcStr,left_substantia_nigra_left_LMod3_AlcStr
+66,68,78,1.23076917231083,-3.52499955892563,5.6508619338274,-3.338,right Retosplenial Dysgranular Cortex,right_retosplenial_dysgranular_cortex,LMod3_AlcStr,right_retosplenial_dysgranular_cortex_LMod3_AlcStr
+44,77,60,-2.37948735058308,-2.04941821098328,2.70258609950542,-2.97,left Dentate Gyrus_left,left_dentate_gyrus_left,LMod3_AlcStr,left_dentate_gyrus_left_LMod3_AlcStr
+46,135,67,-2.05128221213818,7.45988380908966,3.84913781285286,-2.854,left Frontal Association Cortex_left,left_frontal_association_cortex_left,LMod3_AlcStr,left_frontal_association_cortex_left_LMod3_AlcStr
+95,44,54,5.98974367976189,-7.45988315343857,1.71982748806477,-2.781,right Molecular Layer of the Cerebellum,right_molecular_layer_of_the_cerebellum_5,LMod3_AlcStr,right_molecular_layer_of_the_cerebellum_5_LMod3_AlcStr
+57,152,68,-0.246153950691223,10.2470930218697,4.01293091475964,5.027,left Olfactory Bulb_left,left_olfactory_bulb_left,LMod5_AlcStr,left_olfactory_bulb_left_LMod5_AlcStr
+33,34,43,-4.18461561203003,-9.09941798448563,-0.0818966329097748,5.014,left Molecular Layer of the Cerebellum_left,left_molecular_layer_of_the_cerebellum_left,LMod5_AlcStr,left_molecular_layer_of_the_cerebellum_left_LMod5_AlcStr
+91,37,41,5.33333340287209,-8.60755753517151,-0.409482836723328,4.665,right Molecular Layer of the Cerebellum,right_molecular_layer_of_the_cerebellum,LMod5_AlcStr,right_molecular_layer_of_the_cerebellum_LMod5_AlcStr
+20,68,29,-6.31794901192188,-3.52499955892563,-2.37500005960464,4.56,left Lateral Entorhinal Cortex_left,left_lateral_entorhinal_cortex_left,LMod5_AlcStr,left_lateral_entorhinal_cortex_left_LMod5_AlcStr
+64,52,45,0.902564033865929,-6.14825528860092,0.245689570903778,3.922,right Molecular Layer of the Cerebellum,right_molecular_layer_of_the_cerebellum_2,LMod5_AlcStr,right_molecular_layer_of_the_cerebellum_2_LMod5_AlcStr
+53,115,49,-0.902564227581024,4.18081414699554,0.900861978530884,3.88,left Striatum_left,left_striatum_left,LMod5_AlcStr,left_striatum_left_LMod5_AlcStr
+60,76,27,0.246153756976128,-2.21337169408798,-2.7025862634182,3.772,right Hypothalamic Region,right_hypothalamic_region,LMod5_AlcStr,right_hypothalamic_region_LMod5_AlcStr
+55,15,41,-0.574359089136124,-12.214534163475,-0.409482836723328,3.381,left Molecular Layer of the Cerebellum_left,left_molecular_layer_of_the_cerebellum_left_2,LMod5_AlcStr,left_molecular_layer_of_the_cerebellum_left_2_LMod5_AlcStr
+66,69,68,1.23076917231083,-3.36104607582092,4.01293091475964,3.354,right Retrosplenial Granular Cortex Part B,right_retrosplenial_granular_cortex_part_b,LMod5_AlcStr,right_retrosplenial_granular_cortex_part_b_LMod5_AlcStr
+78,83,45,3.20000000298023,-1.06569731235504,0.245689570903778,3.169,right Thalamus ,right_thalamus,LMod5_AlcStr,right_thalamus_LMod5_AlcStr
+33,113,52,-4.18461561203003,3.85290718078613,1.39224128425121,-6.38,left Dysgranular Insular Cortex_left,left_dysgranular_insular_cortex_left,LMod5_AlcStr,left_dysgranular_insular_cortex_left_LMod5_AlcStr
+58,56,74,-0.0820513814687729,-5.4924413561821,4.99568952620029,-5.516,left Retosplenial Dysgranular Cortex_left,left_retosplenial_dysgranular_cortex_left,LMod5_AlcStr,left_retosplenial_dysgranular_cortex_left_LMod5_AlcStr
+66,125,52,1.23076917231083,5.8203489780426,1.39224128425121,-5.013,right PreLimbic System,right_pre_limbic_system,LMod5_AlcStr,right_pre_limbic_system_LMod5_AlcStr
+49,93,26,-1.55897450447083,0.573837518692017,-2.86637936532497,-4.604,left Hypothalamic Region_left,left_hypothalamic_region_left,LMod5_AlcStr,left_hypothalamic_region_left_LMod5_AlcStr
+78,103,56,3.20000000298023,2.21337234973907,2.04741369187832,-4.542,right Striatum,right_striatum,LMod5_AlcStr,right_striatum_LMod5_AlcStr
+45,68,52,-2.21538478136063,-3.52499955892563,1.39224128425121,-4.534,left Dentate Gyrus_left,left_dentate_gyrus_left,LMod5_AlcStr,left_dentate_gyrus_left_LMod5_AlcStr
+90,69,60,5.16923083364964,-3.36104607582092,2.70258609950542,-4.274,right Cornu Ammonis 1,right_cornu_ammonis_1,LMod5_AlcStr,right_cornu_ammonis_1_LMod5_AlcStr
+29,40,35,-4.84102588891983,-8.11569708585739,-1.39224144816399,-4.052,left Granule Cell Level of the Cerebellum_left,left_granule_cell_level_of_the_cerebellum_left,LMod5_AlcStr,left_granule_cell_level_of_the_cerebellum_left_LMod5_AlcStr
+71,73,33,2.05128201842308,-2.7052321434021,-1.71982765197754,-3.816,right Substantia Nigra,right_substantia_nigra,LMod5_AlcStr,right_substantia_nigra_LMod5_AlcStr
+37,46,64,-3.52820533514023,-7.13197618722916,3.35775850713253,-3.742,left Presubiculum_left,left_presubiculum_left,LMod5_AlcStr,left_presubiculum_left_LMod5_AlcStr
+49,170,63,-1.55897450447083,13.1982557177544,3.19396540522575,-3.561,left Glomerular Layer of the Olfactory Bulb_left,left_glomerular_layer_of_the_olfactory_bulb_left,LMod5_AlcStr,left_glomerular_layer_of_the_olfactory_bulb_left_LMod5_AlcStr
+95,82,35,5.98974367976189,-1.22965079545975,-1.39224144816399,-3.514,right Lateral Entorhinal Cortex,right_lateral_entorhinal_cortex,LMod5_AlcStr,right_lateral_entorhinal_cortex_LMod5_AlcStr
+59,34,63,0.0820511877536774,-9.09941798448563,3.19396540522575,-3.404,left Molecular Layer of the Cerebellum_left,left_molecular_layer_of_the_cerebellum_left_3,LMod5_AlcStr,left_molecular_layer_of_the_cerebellum_left_3_LMod5_AlcStr
+46,86,76,-2.05128221213818,-0.573836863040924,5.32327573001385,-3.387,left Primary Motor Cortex_left,left_primary_motor_cortex_left,LMod5_AlcStr,left_primary_motor_cortex_left_LMod5_AlcStr
+100,41,27,6.81025652587414,-7.95174360275269,-2.7025862634182,-3.2,right Granule Cell Level of the Cerebellum,right_granule_cell_level_of_the_cerebellum,LMod5_AlcStr,right_granule_cell_level_of_the_cerebellum_LMod5_AlcStr
+80,104,26,3.52820514142513,2.37732583284378,-2.86637936532497,-3.178,right Entorhinal Cortex,right_entorhinal_cortex,LMod5_AlcStr,right_entorhinal_cortex_LMod5_AlcStr
+21,69,43,-6.15384644269943,-3.36104607582092,-0.0818966329097748,-3.038,left Lateral Entorhinal Cortex_left,left_lateral_entorhinal_cortex_left_2,LMod5_AlcStr,left_lateral_entorhinal_cortex_left_2_LMod5_AlcStr
+31,38,56,-4.51282075047493,-8.4436040520668,2.04741369187832,6.147,left Molecular Layer of the Cerebellum_left,left_molecular_layer_of_the_cerebellum_left,LMod7_AlcStr,left_molecular_layer_of_the_cerebellum_left_LMod7_AlcStr
+77,82,46,3.03589743375778,-1.22965079545975,0.409482672810555,6.042,right Thalamus ,right_thalamus,LMod7_AlcStr,right_thalamus_LMod7_AlcStr
+84,47,38,4.18461541831493,-6.96802270412445,-0.900862142443657,5.592,right Granule Cell Level of the Cerebellum,right_granule_cell_level_of_the_cerebellum,LMod7_AlcStr,right_granule_cell_level_of_the_cerebellum_LMod7_AlcStr
+50,161,69,-1.39487193524837,11.722674369812,4.17672401666641,5.273,left Olfactory Bulb_left,left_olfactory_bulb_left,LMod7_AlcStr,left_olfactory_bulb_left_LMod7_AlcStr
+54,63,63,-0.738461658358574,-4.34476697444916,3.19396540522575,4.949,left Retrosplenial Granular Cortex Part A_left,left_retrosplenial_granular_cortex_part_a_left,LMod7_AlcStr,left_retrosplenial_granular_cortex_part_a_left_LMod7_AlcStr
+41,51,31,-2.87179505825043,-6.31220877170563,-2.04741385579109,4.85,left Middle Cerebellar Peduncle_left ,left_middle_cerebellar_peduncle_left,LMod7_AlcStr,left_middle_cerebellar_peduncle_left_LMod7_AlcStr
+56,82,20,-0.410256519913673,-1.22965079545975,-3.84913797676563,4.762,left Hypothalamic Region_left,left_hypothalamic_region_left,LMod7_AlcStr,left_hypothalamic_region_left_LMod7_AlcStr
+86,33,64,4.51282055675983,-9.26337146759033,3.35775850713253,4.691,right Molecular Layer of the Cerebellum,right_molecular_layer_of_the_cerebellum,LMod7_AlcStr,right_molecular_layer_of_the_cerebellum_LMod7_AlcStr
+48,115,53,-1.72307707369328,4.18081414699554,1.55603438615799,4.364,left Striatum_left,left_striatum_left,LMod7_AlcStr,left_striatum_left_LMod7_AlcStr
+59,91,70,0.0820511877536774,0.245930552482605,4.34051711857319,4.273,left Retosplenial Dysgranular Cortex_left,left_retosplenial_dysgranular_cortex_left,LMod7_AlcStr,left_retosplenial_dysgranular_cortex_left_LMod7_AlcStr
+61,141,54,0.410256326198578,8.4436047077179,1.71982748806477,4.096,right Olfactory Bulb,right_olfactory_bulb,LMod7_AlcStr,right_olfactory_bulb_LMod7_AlcStr
+65,20,53,1.06666660308838,-11.3947667479515,1.55603438615799,3.488,right Molecular Layer of the Cerebellum,right_molecular_layer_of_the_cerebellum_2,LMod7_AlcStr,right_molecular_layer_of_the_cerebellum_2_LMod7_AlcStr
+45,79,43,-2.21538478136063,-1.72151124477386,-0.0818966329097748,3.286,left Thalamus_left ,left_thalamus_left,LMod7_AlcStr,left_thalamus_left_LMod7_AlcStr
+84,122,73,4.18461541831493,5.32848852872849,4.83189642429352,2.936,right Orbitofrontal Region,right_orbitofrontal_region,LMod7_AlcStr,right_orbitofrontal_region_LMod7_AlcStr
+89,111,40,5.00512826442719,3.52500021457672,-0.573275938630104,2.655,right Agranular Insular Cortex,right_agranular_insular_cortex,LMod7_AlcStr,right_agranular_insular_cortex_LMod7_AlcStr
+66,81,54,1.23076917231083,-1.39360427856445,1.71982748806477,-6.451,right Dentate Gyrus,right_dentate_gyrus,LMod7_AlcStr,right_dentate_gyrus_LMod7_AlcStr
+89,73,30,5.00512826442719,-2.7052321434021,-2.21120695769787,-6.371,right Lateral Entorhinal Cortex external part,right_lateral_entorhinal_cortex_external_part,LMod7_AlcStr,right_lateral_entorhinal_cortex_external_part_LMod7_AlcStr
+39,81,62,-3.20000019669533,-1.39360427856445,3.03017230331898,-6.031,left Cornu Ammonis 3_left,left_cornu_ammonis_3_left,LMod7_AlcStr,left_cornu_ammonis_3_left_LMod7_AlcStr
+28,124,50,-5.00512845814228,5.6563954949379,1.06465508043766,-5.9,left Agranular Insular Cortex_left,left_agranular_insular_cortex_left,LMod7_AlcStr,left_agranular_insular_cortex_left_LMod7_AlcStr
+41,73,36,-2.87179505825043,-2.7052321434021,-1.22844834625721,-5.452,left Cornu Ammonis 3_left,left_cornu_ammonis_3_left_2,LMod7_AlcStr,left_cornu_ammonis_3_left_2_LMod7_AlcStr
+57,55,74,-0.246153950691223,-5.6563948392868,4.99568952620029,-5.083,left Retosplenial Dysgranular Cortex_left,left_retosplenial_dysgranular_cortex_left_2,LMod7_AlcStr,left_retosplenial_dysgranular_cortex_left_2_LMod7_AlcStr
+60,99,34,0.246153756976128,1.55755841732025,-1.55603455007076,-4.985,right Hypothalamic Region,right_hypothalamic_region,LMod7_AlcStr,right_hypothalamic_region_LMod7_AlcStr
+24,50,51,-5.66153873503208,-6.47616225481033,1.22844818234444,-4.551,left Presubiculum_left,left_presubiculum_left,LMod7_AlcStr,left_presubiculum_left_LMod7_AlcStr
+82,46,63,3.85641027987003,-7.13197618722916,3.19396540522575,-4.251,right Retosplenial Dysgranular Cortex,right_retosplenial_dysgranular_cortex,LMod7_AlcStr,right_retosplenial_dysgranular_cortex_LMod7_AlcStr
+63,169,60,0.738461464643478,13.0343022346497,2.70258609950542,-3.93,right Glomerular Layer of the Olfactory Bulb,right_glomerular_layer_of_the_olfactory_bulb,LMod7_AlcStr,right_glomerular_layer_of_the_olfactory_bulb_LMod7_AlcStr
+84,37,28,4.18461541831493,-8.60755753517151,-2.53879316151142,-3.877,right Molecular Layer of the Cerebellum,right_molecular_layer_of_the_cerebellum_3,LMod7_AlcStr,right_molecular_layer_of_the_cerebellum_3_LMod7_AlcStr
+35,38,30,-3.85641047358513,-8.4436040520668,-2.21120695769787,-3.795,left Granule Cell Level of the Cerebellum_left,left_granule_cell_level_of_the_cerebellum_left,LMod7_AlcStr,left_granule_cell_level_of_the_cerebellum_left_LMod7_AlcStr
+84,112,55,4.18461541831493,3.68895369768143,1.88362058997154,-3.453,right Striatum,right_striatum,LMod7_AlcStr,right_striatum_LMod7_AlcStr
+57,93,79,-0.246153950691223,0.573837518692017,5.81465503573418,-3.452,left Secondary Motor Cortex_left,left_secondary_motor_cortex_left,LMod7_AlcStr,left_secondary_motor_cortex_left_LMod7_AlcStr
+89,70,61,5.00512826442719,-3.19709259271622,2.8663792014122,-3.331,right Cornu Ammonis 1,right_cornu_ammonis_1,LMod7_AlcStr,right_cornu_ammonis_1_LMod7_AlcStr
+58,130,69,-0.0820513814687729,6.64011639356613,4.17672401666641,-3.063,left Primary Cingular Cortex_left,left_primary_cingular_cortex_left,LMod7_AlcStr,left_primary_cingular_cortex_left_LMod7_AlcStr
+59,44,36,0.0820511877536774,-7.45988315343857,-1.22844834625721,-2.973,left Molecular Layer of the Cerebellum_left,left_molecular_layer_of_the_cerebellum_left_2,LMod7_AlcStr,left_molecular_layer_of_the_cerebellum_left_2_LMod7_AlcStr
+56,16,64,-0.410256519913673,-12.0505806803703,3.35775850713253,-2.955,left Molecular Layer of the Cerebellum_left,left_molecular_layer_of_the_cerebellum_left_3,LMod7_AlcStr,left_molecular_layer_of_the_cerebellum_left_3_LMod7_AlcStr
+57,137,44,-0.246153950691223,7.78779077529907,0.0818964689970016,-2.898,left Olfactory Bulb_left,left_olfactory_bulb_left_2,LMod7_AlcStr,left_olfactory_bulb_left_2_LMod7_AlcStr
+104,91,42,7.46666680276394,0.245930552482605,-0.245689734816551,-2.619,right Dysgranular Insular Cortex,right_dysgranular_insular_cortex,LMod7_AlcStr,right_dysgranular_insular_cortex_LMod7_AlcStr

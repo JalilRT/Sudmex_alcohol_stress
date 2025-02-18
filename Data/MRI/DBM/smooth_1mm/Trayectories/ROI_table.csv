@@ -1,0 +1,400 @@
+Model2,Type,Contrast,ROIs,Hemisphere,Coordinates,Effect,t-value
+Model 1,Linear,EtOH > Ctrl,Thalamus ,right,"1.39,-0.57,1.23",Increase,5.785
+Model 1,Linear,EtOH > Ctrl,Molecular Layer of the Cerebellum,left,"-0.25,-12.21,2.7",Increase,4.775
+Model 1,Linear,EtOH > Ctrl,Granule Cell Level of the Cerebellum,right,"6.97,-7.62,-2.21",Increase,4.625
+Model 1,Linear,EtOH > Ctrl,Granule Cell Level of the Cerebellum,left,"-3.53,-7.46,-1.88",Increase,4.434
+Model 1,Linear,EtOH > Ctrl,Lateral Entorhinal Cortex,right,"7.63,-2.71,-1.72",Increase,4.425
+Model 1,Linear,EtOH > Ctrl,Striatum,right,"1.39,4.34,0.74",Increase,4.397
+Model 1,Linear,EtOH > Ctrl,Striatum,left,"-3.86,1.72,1.39",Increase,4.331
+Model 1,Linear,EtOH > Ctrl,Granule Cell Level of the Cerebellum,right,"2.05,-11.39,-1.06",Increase,3.991
+Model 1,Linear,EtOH > Ctrl,Molecular Layer of the Cerebellum,right,"2.38,-6.31,-0.25",Increase,3.804
+Model 1,Linear,EtOH > Ctrl,Lateral Entorhinal Cortex,left,"-6.81,-2.05,-1.23",Increase,3.574
+Model 1,Linear,EtOH > Ctrl,Parasubiculum,left,"-2.54,-5.16,2.05",Increase,3.497
+Model 1,Linear,EtOH > Ctrl,Primary Motor Cortex,left,"-2.71,3.69,4.34",Decrease,-4.96
+Model 1,Linear,EtOH > Ctrl,Dysgranular Insular Cortex,left,"-5.99,-0.08,0.25",Decrease,-4.942
+Model 1,Linear,EtOH > Ctrl,Middle Cerebellar Peduncle ,left,"-2.87,-4.84,-3.19",Decrease,-4.585
+Model 1,Linear,EtOH > Ctrl,Glomerular Layer of the Olfactory Bulb,right,"0.9,11.56,1.56",Decrease,-4.368
+Model 1,Linear,EtOH > Ctrl,Middle Cerebellar Peduncle ,right,"3.2,-4.18,-3.52",Decrease,-4.332
+Model 1,Linear,EtOH > Ctrl,Subiculum,right,"0.57,-2.54,2.87",Decrease,-4.296
+Model 1,Linear,EtOH > Ctrl,Entorhinal Cortex,right,"3.04,2.21,-2.7",Decrease,-4.224
+Model 1,Linear,EtOH > Ctrl,Granule Cell Level of the Cerebellum,left,"-5.01,-9.1,-2.05",Decrease,-4.133
+Model 1,Linear,EtOH > Ctrl,Agranular Insular Cortex,left,"-3.53,4.18,0.25",Decrease,-3.524
+Model 4,Linear,EtOH > Str,Molecular Layer of the Cerebellum,right,"3.36,-6.31,-0.41",Increase,7.465
+Model 4,Linear,EtOH > Str,Dentate Gyrus,left,"-3.53,-3.2,-1.06",Increase,6.745
+Model 4,Linear,EtOH > Str,Orbitofrontal Region,left,"-4.35,6.8,3.36",Increase,6.278
+Model 4,Linear,EtOH > Str,Molecular Layer of the Cerebellum,right,"4.35,-10.74,3.03",Increase,5.87
+Model 4,Linear,EtOH > Str,Olfactory Bulb,left,"-0.08,6.8,1.06",Increase,5.515
+Model 4,Linear,EtOH > Str,Molecular Layer of the Cerebellum,left,"0.25,-11.89,2.87",Increase,5.455
+Model 4,Linear,EtOH > Str,Dysgranular Insular Cortex,left,"-6.32,2.21,-0.08",Increase,5.304
+Model 4,Linear,EtOH > Str,Thalamus ,right,"1.07,-0.41,0.41",Increase,5.158
+Model 4,Linear,EtOH > Str,Glomerular Layer of the Olfactory Bulb,left,"-0.25,12.05,3.85",Increase,4.929
+Model 4,Linear,EtOH > Str,Secondary Motor Cortex,left,"-1.07,4.02,5.81",Increase,4.705
+Model 4,Linear,EtOH > Str,Molecular Layer of the Cerebellum,left,"-3.2,-9.59,3.69",Increase,4.114
+Model 4,Linear,EtOH > Str,Hypothalamic Region,right,"1.07,-1.23,-3.69",Increase,4.039
+Model 4,Linear,EtOH > Str,Dentate Gyrus,left,"-2.05,-1.56,2.7",Increase,3.892
+Model 4,Linear,EtOH > Str,Dorso Lateral Orbital Cortex,right,"4.02,7.46,2.54",Increase,3.881
+Model 4,Linear,EtOH > Str,Retosplenial Dysgranular Cortex,right,"1.89,-5.98,3.69",Increase,3.427
+Model 4,Linear,EtOH > Str,Amygdalopiriform Cortex,right,"6.15,-2.21,-3.52",Increase,3.231
+Model 4,Linear,EtOH > Str,Molecular Layer of the Cerebellum,left,"-4.02,-9.26,-0.74",Increase,3.23
+Model 4,Linear,EtOH > Str,Olfactory Bulb,right,"1.39,10.08,1.72",Decrease,-6.198
+Model 4,Linear,EtOH > Str,Primary Motor Cortex,left,"-2.05,2.21,4.67",Decrease,-5.605
+Model 4,Linear,EtOH > Str,Posterior Agralunar Insular Cortex,left,"-5.5,-0.25,-0.08",Decrease,-5.546
+Model 4,Linear,EtOH > Str,Retosplenial Dysgranular Cortex,right,"1.72,-4.02,4.83",Decrease,-5.397
+Model 4,Linear,EtOH > Str,Dysgranular Insular Cortex,right,"5.33,3.85,0.57",Decrease,-5.189
+Model 4,Linear,EtOH > Str,Retosplenial Dysgranular Cortex,left,"-4.68,-5.98,2.21",Decrease,-4.964
+Model 4,Linear,EtOH > Str,Primary Motor Cortex,right,"1.89,4.51,4.01",Decrease,-4.526
+Model 4,Linear,EtOH > Str,PreLimbic System,left,"-2.71,5.16,0.9",Decrease,-4.146
+Model 4,Linear,EtOH > Str,Cornu Ammonis 3,right,"3.53,-0.57,3.03",Decrease,-4.029
+Model 4,Linear,EtOH > Str,Granule Cell Level of the Cerebellum,left,"-5.17,-8.77,-2.05",Decrease,-3.868
+Model 4,Linear,EtOH > Str,Entorhinal Cortex,right,"5.5,0.74,-2.05",Decrease,-3.715
+Model 4,Linear,EtOH > Str,Glomerular Layer of the Olfactory Bulb,left,"-1.23,13.03,2.87",Decrease,-3.556
+Model 4,Linear,EtOH > Str,Molecular Layer of the Cerebellum,right,"5.33,-8.77,1.39",Decrease,-3.34
+Model 4,Linear,EtOH > Str,Hypothalamic Region,left,"-0.25,-0.57,-4.18",Decrease,-3.301
+Model 4,Linear,EtOH > Str,Molecular Layer of the Cerebellum,left,"0.41,-6.97,1.72",Decrease,-2.91
+Model 4,Linear,EtOH > Str,Medial Entorhinal Cortex,right,"6.48,-5.33,-1.56",Decrease,-2.702
+Model 4,Linear,EtOH > Str,Substantia Nigra,right,"2.05,-3.52,-1.72",Decrease,-2.646
+Model 1,Linear,Str > Ctrl,Retosplenial Dysgranular Cortex,right,"1.89,-4.34,4.5",Increase,5.596
+Model 1,Linear,Str > Ctrl,Dysgranular Insular Cortex,right,"5.33,4.02,0.57",Increase,5.451
+Model 1,Linear,Str > Ctrl,Lateral Entorhinal Cortex,left,"-6.48,-2.21,-1.88",Increase,5.291
+Model 1,Linear,Str > Ctrl,Granule Cell Level of the Cerebellum,right,"4.35,-7.79,-2.21",Increase,5.117
+Model 1,Linear,Str > Ctrl,Lateral Entorhinal Cortex,right,"6.97,-2.05,-2.05",Increase,4.799
+Model 1,Linear,Str > Ctrl,Olfactory Bulb,right,"0.9,9.59,2.21",Increase,4.739
+Model 1,Linear,Str > Ctrl,Granule Cell Level of the Cerebellum,left,"-3.69,-7.79,-2.21",Increase,4.58
+Model 1,Linear,Str > Ctrl,Secondary Motor Cortex,right,"1.56,1.89,4.83",Increase,4.452
+Model 1,Linear,Str > Ctrl,Thalamus ,left,"-3.36,-1.23,1.72",Increase,4.434
+Model 1,Linear,Str > Ctrl,Retosplenial Dysgranular Cortex,left,"-4.68,-5.98,2.21",Increase,4.195
+Model 1,Linear,Str > Ctrl,Lateral Entorhinal Cortex,right,"5.99,-5.49,1.39",Increase,3.874
+Model 1,Linear,Str > Ctrl,Striatum,left,"-2.22,2.71,2.37",Increase,3.743
+Model 1,Linear,Str > Ctrl,Glomerular Layer of the Olfactory Bulb,left,"-1.23,13.03,2.87",Increase,3.071
+Model 1,Linear,Str > Ctrl,Cornu Ammonis 1,right,"4.02,-1.07,3.52",Increase,2.977
+Model 1,Linear,Str > Ctrl,Perirhinal Area 36,left,"-4.51,-4.34,-1.23",Decrease,-8.256
+Model 1,Linear,Str > Ctrl,Dorso Lateral Orbital Cortex,left,"-3.69,7.13,1.88",Decrease,-6.634
+Model 1,Linear,Str > Ctrl,Dentate Gyrus,right,"3.69,-3.03,-1.39",Decrease,-6.319
+Model 1,Linear,Str > Ctrl,Subiculum,left,"0.25,-2.38,2.7",Decrease,-6.246
+Model 1,Linear,Str > Ctrl,Dorso Lateral Orbital Cortex,right,"3.36,7.3,1.56",Decrease,-6.207
+Model 1,Linear,Str > Ctrl,Glomerular Layer of the Olfactory Bulb,left,"-0.25,11.23,1.88",Decrease,-5.305
+Model 1,Linear,Str > Ctrl,Primary Cingular Cortex,left,"-0.08,3.36,4.5",Decrease,-5.115
+Model 1,Linear,Str > Ctrl,Molecular Layer of the Cerebellum,left,"-1.39,-10.57,4.01",Decrease,-4.971
+Model 1,Linear,Str > Ctrl,Hypothalamic Region,right,"0.74,1.72,-2.87",Decrease,-4.547
+Model 1,Linear,Str > Ctrl,Molecular Layer of the Cerebellum,right,"3.36,-10.25,3.69",Decrease,-4.454
+Model 1,Linear,Str > Ctrl,Granule Cell Level of the Cerebellum,left,"-4.35,-9.76,-0.9",Decrease,-4.178
+Model 1,Linear,Str > Ctrl,Molecular Layer of the Cerebellum,right,"4.68,-9.26,-1.23",Decrease,-3.933
+Model 1,Linear,Str > Ctrl,Hypothalamic Region,left,"-1.56,-1.72,-2.54",Decrease,-3.931
+Model 1,Linear,Str > Ctrl,Dysgranular Insular Cortex,right,"7.14,2.21,-0.41",Decrease,-3.029
+Model 1,Linear,Str > Ctrl,Dysgranular Insular Cortex,left,"-5.01,1.56,0.57",Decrease,-2.977
+Model 1,Linear,Str > Ctrl,Frontal Association Cortex,left,"-0.25,7.46,4.01",Decrease,-2.855
+Model 6,Linear,Str > Alc,Olfactory Bulb,right,"1.39,10.08,1.72",Increase,6.198
+Model 6,Linear,Str > Alc,Primary Motor Cortex,left,"-2.05,2.21,4.67",Increase,5.605
+Model 6,Linear,Str > Alc,Posterior Agralunar Insular Cortex,left,"-5.5,-0.25,-0.08",Increase,5.546
+Model 6,Linear,Str > Alc,Retosplenial Dysgranular Cortex,right,"1.72,-4.02,4.83",Increase,5.397
+Model 6,Linear,Str > Alc,Dysgranular Insular Cortex,right,"5.33,3.85,0.57",Increase,5.189
+Model 6,Linear,Str > Alc,Retosplenial Dysgranular Cortex,left,"-4.68,-5.98,2.21",Increase,4.964
+Model 6,Linear,Str > Alc,Primary Motor Cortex,right,"1.89,4.51,4.01",Increase,4.526
+Model 6,Linear,Str > Alc,PreLimbic System,left,"-2.71,5.16,0.9",Increase,4.146
+Model 6,Linear,Str > Alc,Cornu Ammonis 3,right,"3.53,-0.57,3.03",Increase,4.029
+Model 6,Linear,Str > Alc,Granule Cell Level of the Cerebellum,left,"-5.17,-8.77,-2.05",Increase,3.868
+Model 6,Linear,Str > Alc,Entorhinal Cortex,right,"5.5,0.74,-2.05",Increase,3.715
+Model 6,Linear,Str > Alc,Glomerular Layer of the Olfactory Bulb,left,"-1.23,13.03,2.87",Increase,3.556
+Model 6,Linear,Str > Alc,Molecular Layer of the Cerebellum,right,"5.33,-8.77,1.39",Increase,3.34
+Model 6,Linear,Str > Alc,Hypothalamic Region,left,"-0.25,-0.57,-4.18",Increase,3.301
+Model 6,Linear,Str > Alc,Molecular Layer of the Cerebellum,left,"0.41,-6.97,1.72",Increase,2.91
+Model 6,Linear,Str > Alc,Medial Entorhinal Cortex,right,"6.48,-5.33,-1.56",Increase,2.702
+Model 6,Linear,Str > Alc,Substantia Nigra,right,"2.05,-3.52,-1.72",Increase,2.646
+Model 6,Linear,Str > Alc,Molecular Layer of the Cerebellum,right,"3.36,-6.31,-0.41",Decrease,-7.465
+Model 6,Linear,Str > Alc,Dentate Gyrus,left,"-3.53,-3.2,-1.06",Decrease,-6.745
+Model 6,Linear,Str > Alc,Orbitofrontal Region,left,"-4.35,6.8,3.36",Decrease,-6.278
+Model 6,Linear,Str > Alc,Molecular Layer of the Cerebellum,right,"4.35,-10.74,3.03",Decrease,-5.87
+Model 6,Linear,Str > Alc,Olfactory Bulb,left,"-0.08,6.8,1.06",Decrease,-5.515
+Model 6,Linear,Str > Alc,Molecular Layer of the Cerebellum,left,"0.25,-11.89,2.87",Decrease,-5.455
+Model 6,Linear,Str > Alc,Dysgranular Insular Cortex,left,"-6.32,2.21,-0.08",Decrease,-5.304
+Model 6,Linear,Str > Alc,Thalamus ,right,"1.07,-0.41,0.41",Decrease,-5.158
+Model 6,Linear,Str > Alc,Glomerular Layer of the Olfactory Bulb,left,"-0.25,12.05,3.85",Decrease,-4.929
+Model 6,Linear,Str > Alc,Secondary Motor Cortex,left,"-1.07,4.02,5.81",Decrease,-4.705
+Model 6,Linear,Str > Alc,Molecular Layer of the Cerebellum,left,"-3.2,-9.59,3.69",Decrease,-4.114
+Model 6,Linear,Str > Alc,Hypothalamic Region,right,"1.07,-1.23,-3.69",Decrease,-4.039
+Model 6,Linear,Str > Alc,Dentate Gyrus,left,"-2.05,-1.56,2.7",Decrease,-3.892
+Model 6,Linear,Str > Alc,Dorso Lateral Orbital Cortex,right,"4.02,7.46,2.54",Decrease,-3.881
+Model 6,Linear,Str > Alc,Retosplenial Dysgranular Cortex,right,"1.89,-5.98,3.69",Decrease,-3.427
+Model 6,Linear,Str > Alc,Amygdalopiriform Cortex,right,"6.15,-2.21,-3.52",Decrease,-3.231
+Model 6,Linear,Str > Alc,Molecular Layer of the Cerebellum,left,"-4.02,-9.26,-0.74",Decrease,-3.23
+Model 1,Linear,EtOH+Str > Ctrl,Granule Cell Level of the Cerebellum,right,"6.97,-7.79,-2.38",Increase,6.181
+Model 1,Linear,EtOH+Str > Ctrl,Molecular Layer of the Cerebellum,left,"-6.15,-8.44,-0.57",Increase,6.057
+Model 1,Linear,EtOH+Str > Ctrl,Retosplenial Dysgranular Cortex,right,"2.38,-4.51,4.5",Increase,5.866
+Model 1,Linear,EtOH+Str > Ctrl,Secondary Motor Cortex,right,"1.56,1.72,4.83",Increase,5.665
+Model 1,Linear,EtOH+Str > Ctrl,Entorhinal Cortex,left,"-5.17,-0.25,-1.56",Increase,5.287
+Model 1,Linear,EtOH+Str > Ctrl,Molecular Layer of the Cerebellum,left,"-0.41,-8.94,1.72",Increase,5.239
+Model 1,Linear,EtOH+Str > Ctrl,Middle Cerebellar Peduncle ,left,"-3.04,-6.31,-2.05",Increase,5.035
+Model 1,Linear,EtOH+Str > Ctrl,Lateral Entorhinal Cortex,right,"7.14,-2.54,-1.88",Increase,4.97
+Model 1,Linear,EtOH+Str > Ctrl,Secondary Motor Cortex,right,"1.23,7.13,3.19",Increase,4.937
+Model 1,Linear,EtOH+Str > Ctrl,Dysgranular Insular Cortex,left,"-5.33,3.53,0.74",Increase,4.137
+Model 1,Linear,EtOH+Str > Ctrl,Retosplenial Dysgranular Cortex,left,"-4.18,-6.15,2.54",Increase,4.019
+Model 1,Linear,EtOH+Str > Ctrl,Lateral Entorhinal Cortex,right,"5.99,-5.33,1.39",Increase,3.999
+Model 1,Linear,EtOH+Str > Ctrl,Dysgranular Insular Cortex,right,"5.01,4.34,0.41",Increase,3.752
+Model 1,Linear,EtOH+Str > Ctrl,Olfactory Bulb,left,"-1.72,10.08,4.18",Increase,3.492
+Model 1,Linear,EtOH+Str > Ctrl,Thalamus ,right,"3.36,-0.74,1.39",Increase,3.392
+Model 1,Linear,EtOH+Str > Ctrl,Thalamus ,left,"-3.2,-1.07,1.88",Increase,3.245
+Model 1,Linear,EtOH+Str > Ctrl,Dentate Gyrus,right,"2.54,-2.87,-2.7",Increase,3.138
+Model 1,Linear,EtOH+Str > Ctrl,Granule Cell Level of the Cerebellum,right,"3.36,-9.43,0.41",Increase,2.977
+Model 1,Linear,EtOH+Str > Ctrl,Dorso Lateral Orbital Cortex,right,"3.36,7.46,1.56",Decrease,-7.444
+Model 1,Linear,EtOH+Str > Ctrl,Molecular Layer of the Cerebellum,right,"2.38,-9.26,4.34",Decrease,-7.302
+Model 1,Linear,EtOH+Str > Ctrl,Cornu Ammonis 3,right,"3.86,-1.23,-1.39",Decrease,-7.096
+Model 1,Linear,EtOH+Str > Ctrl,Perirhinal Area 36,left,"-4.84,-4.18,-1.39",Decrease,-6.609
+Model 1,Linear,EtOH+Str > Ctrl,PreLimbic System,left,"-3.36,6.97,1.39",Decrease,-6.207
+Model 1,Linear,EtOH+Str > Ctrl,Subiculum,left,"0.25,-2.54,2.87",Decrease,-6.016
+Model 1,Linear,EtOH+Str > Ctrl,Molecular Layer of the Cerebellum,left,"-1.89,-9.76,4.18",Decrease,-5.731
+Model 1,Linear,EtOH+Str > Ctrl,Glomerular Layer of the Olfactory Bulb,right,"0.08,11.23,1.72",Decrease,-4.813
+Model 1,Linear,EtOH+Str > Ctrl,Secondary Cingular Cortex,left,"-0.25,3.36,2.54",Decrease,-4.722
+Model 1,Linear,EtOH+Str > Ctrl,Hypothalamic Region,right,"0.25,0.25,-0.25",Decrease,-4.615
+Model 1,Linear,EtOH+Str > Ctrl,Dysgranular Insular Cortex,right,"7.14,2.21,-0.41",Decrease,-4.221
+Model 1,Linear,EtOH+Str > Ctrl,Molecular Layer of the Cerebellum,right,"6.32,-8.28,1.72",Decrease,-3.947
+Model 1,Linear,EtOH+Str > Ctrl,Granule Cell Level of the Cerebellum,left,"0.25,-11.72,0.57",Decrease,-3.525
+Model 1,Linear,EtOH+Str > Ctrl,Entorhinal Cortex,left,"-4.02,2.05,-1.56",Decrease,-3.053
+Model 1,Linear,EtOH+Str > Ctrl,Primary Motor Cortex,right,"2.54,1.23,5.98",Decrease,-2.92
+Model 1,Linear,EtOH+Str > Ctrl,Amygdalohyppocampic Area,right,"6.65,-4.02,-2.7",Decrease,-2.86
+Model 1,Linear,EtOH+Str > Ctrl,Primary Motor Cortex,left,"-1.72,1.07,5.98",Decrease,-2.833
+Model 1,Linear,EtOH+Str > Ctrl,Entorhinal Cortex,right,"4.02,2.54,-3.03",Decrease,-2.632
+Model 4,Linear,NA,Dentate Gyrus,left,"-3.2,-3.69,-1.56",Increase,5.51
+Model 4,Linear,NA,Frontal Association Cortex,left,"-0.25,7.79,3.69",Increase,5.132
+Model 4,Linear,NA,Dentate Gyrus,right,"3.53,-3.36,-1.72",Increase,4.883
+Model 4,Linear,NA,Granule Cell Level of the Cerebellum,left,"-6.81,-8.44,-0.74",Increase,4.613
+Model 4,Linear,NA,Dysgranular Insular Cortex,left,"-5.83,1.89,0.41",Increase,4.244
+Model 4,Linear,NA,Hypothalamic Region,left,"0.08,-1.07,-3.19",Increase,3.862
+Model 4,Linear,NA,Molecular Layer of the Cerebellum,left,"-0.25,-6.8,0.41",Increase,3.803
+Model 4,Linear,NA,Granule Cell Level of the Cerebellum,right,"5.5,-8.12,-0.41",Increase,3.471
+Model 4,Linear,NA,Cornu Ammonis 1,right,"2.71,-2.38,3.85",Increase,3.411
+Model 4,Linear,NA,Molecular Layer of the Cerebellum,right,"3.86,-11.07,2.87",Increase,3.389
+Model 4,Linear,NA,Molecular Layer of the Cerebellum,right,"2.38,-8.44,4.34",Decrease,-5.176
+Model 4,Linear,NA,Striatum,right,"3.86,3.85,1.39",Decrease,-4.889
+Model 4,Linear,NA,Glomerular Layer of the Olfactory Bulb,right,"0.25,9.26,1.06",Decrease,-4.591
+Model 4,Linear,NA,Granule Cell Level of the Cerebellum,right,"4.68,-7.79,-2.38",Decrease,-4.152
+Model 4,Linear,NA,Granule Cell Level of the Cerebellum,left,"-4.02,-8.12,-2.38",Decrease,-4.096
+Model 4,Linear,NA,Hypothalamic Region,left,"-0.41,-0.08,-4.01",Decrease,-4.034
+Model 4,Linear,NA,Cornu Ammonis 2,left,"-1.56,-0.25,3.52",Decrease,-3.975
+Model 4,Linear,NA,Posterior Agralunar Insular Cortex,right,"6.97,0.08,-1.39",Decrease,-3.64
+Model 4,Linear,NA,Retosplenial Dysgranular Cortex,right,"1.23,-4.67,5.32",Decrease,-3.466
+Model 4,Linear,NA,Lateral Entorhinal Cortex,left,"-6.81,-1.89,-1.72",Decrease,-3.403
+Model 6,Linear,EtOH+Str > Alc,Molecular Layer of the Cerebellum,left,"-5.66,-8.28,-0.57",Increase,8.202
+Model 6,Linear,EtOH+Str > Alc,Entorhinal Cortex,left,"-5.01,-0.08,-1.39",Increase,7.505
+Model 6,Linear,EtOH+Str > Alc,Retosplenial Dysgranular Cortex,right,"2.54,-4.18,4.5",Increase,5.878
+Model 6,Linear,EtOH+Str > Alc,Primary Motor Cortex,left,"-2.38,2.71,4.5",Increase,5.803
+Model 6,Linear,EtOH+Str > Alc,Molecular Layer of the Cerebellum,left,"-0.41,-8.94,1.88",Increase,5.613
+Model 6,Linear,EtOH+Str > Alc,Cornu Ammonis 1,left,"-4.18,-4.34,3.03",Increase,5.599
+Model 6,Linear,EtOH+Str > Alc,Primary Motor Cortex,right,"2.87,3.03,4.18",Increase,5.471
+Model 6,Linear,EtOH+Str > Alc,Olfactory Bulb,right,"1.56,9.43,3.85",Increase,5.356
+Model 6,Linear,EtOH+Str > Alc,Dysgranular Insular Cortex,left,"-5.17,3.53,0.74",Increase,4.932
+Model 6,Linear,EtOH+Str > Alc,Dentate Gyrus,right,"2.54,-2.87,-2.7",Increase,4.778
+Model 6,Linear,EtOH+Str > Alc,Molecular Layer of the Cerebellum,right,"5.66,-7.95,-0.9",Increase,4.333
+Model 6,Linear,EtOH+Str > Alc,Striatum,right,"5.17,0.08,0.41",Increase,3.156
+Model 6,Linear,EtOH+Str > Alc,Entorhinal Cortex,right,"4.02,3.85,-2.05",Increase,3.149
+Model 6,Linear,EtOH+Str > Alc,Middle Cerebellar Peduncle ,left,"-3.2,-5,-2.54",Increase,2.971
+Model 6,Linear,EtOH+Str > Alc,Molecular Layer of the Cerebellum,right,"2.05,-8.61,4.01",Decrease,-7.925
+Model 6,Linear,EtOH+Str > Alc,Hypothalamic Region,right,"0.25,0.08,0.08",Decrease,-7.35
+Model 6,Linear,EtOH+Str > Alc,Dentate Gyrus,left,"-3.53,-2.87,-0.74",Decrease,-7.22
+Model 6,Linear,EtOH+Str > Alc,Primary Motor Cortex,left,"-4.84,5.98,3.52",Decrease,-6.875
+Model 6,Linear,EtOH+Str > Alc,Cornu Ammonis 3,right,"4.18,-1.23,-1.39",Decrease,-6.23
+Model 6,Linear,EtOH+Str > Alc,Glomerular Layer of the Olfactory Bulb,right,"-0.08,11.89,3.52",Decrease,-6.03
+Model 6,Linear,EtOH+Str > Alc,PreLimbic System,right,"0.08,5.33,0.57",Decrease,-6.028
+Model 6,Linear,EtOH+Str > Alc,Molecular Layer of the Cerebellum,left,"-2.22,-9.92,4.01",Decrease,-5.587
+Model 6,Linear,EtOH+Str > Alc,Middle Cerebellar Peduncle ,right,"4.35,-6.15,-0.74",Decrease,-5.094
+Model 6,Linear,EtOH+Str > Alc,Molecular Layer of the Cerebellum,left,"-0.08,-11.72,-0.08",Decrease,-5.091
+Model 6,Linear,EtOH+Str > Alc,Parasubiculum,left,"-2.05,-5.33,2.7",Decrease,-4.996
+Model 6,Linear,EtOH+Str > Alc,Striatum,left,"-4.02,2.21,1.72",Decrease,-4.65
+Model 6,Linear,EtOH+Str > Alc,Dorso Lateral Orbital Cortex,right,"4.02,7.46,2.37",Decrease,-4.575
+Model 6,Linear,EtOH+Str > Alc,Dysgranular Insular Cortex,left,"-6.97,0.41,-0.41",Decrease,-4.513
+Model 6,Linear,EtOH+Str > Alc,Striatum,right,"4.02,3.36,1.72",Decrease,-4.295
+Model 6,Linear,EtOH+Str > Alc,Molecular Layer of the Cerebellum,right,"5.17,-10.57,2.37",Decrease,-3.479
+Model 6,Linear,EtOH+Str > Alc,Granule Cell Level of the Cerebellum,left,"-2.38,-7.46,-0.9",Decrease,-3.338
+Model 6,Linear,EtOH+Str > Alc,Primary Motor Cortex,left,"-1.89,-0.41,6.14",Decrease,-3.028
+Model 6,Linear,EtOH+Str > Alc,Posterior Agralunar Insular Cortex,right,"6.81,1.89,-0.9",Decrease,-2.987
+Model 6,Linear,EtOH+Str > Alc,Primary Cingular Cortex,left,"-0.57,4.02,5.81",Decrease,-2.976
+Model 3,Linear,EtOH > Ctrl,Dentate Gyrus,left,"-2.54,-0.41,2.37",Increase,5.599
+Model 3,Linear,EtOH > Ctrl,Perirhinal Area 36,right,"4.84,-5.49,-0.25",Increase,5.097
+Model 3,Linear,EtOH > Ctrl,Granule Cell Level of the Cerebellum,left,"-3.86,-7.79,-2.38",Increase,5.01
+Model 3,Linear,EtOH > Ctrl,Glomerular Layer of the Olfactory Bulb,left,"-2.22,9.92,2.54",Increase,4.727
+Model 3,Linear,EtOH > Ctrl,Cornu Ammonis 2,right,"2.71,-0.57,3.36",Increase,4.411
+Model 3,Linear,EtOH > Ctrl,Lateral Entorhinal Cortex external part,left,"-6.65,-2.71,-0.9",Increase,4.201
+Model 3,Linear,EtOH > Ctrl,Agranular Insular Cortex,left,"-3.86,6.15,1.56",Increase,4.123
+Model 3,Linear,EtOH > Ctrl,Striatum,right,"0.9,4.18,0.57",Increase,3.948
+Model 3,Linear,EtOH > Ctrl,Molecular Layer of the Cerebellum,right,"3.2,-10.74,-0.9",Increase,3.615
+Model 3,Linear,EtOH > Ctrl,Molecular Layer of the Cerebellum,left,"-1.07,-8.77,2.21",Increase,3.302
+Model 3,Linear,EtOH > Ctrl,Dysgranular Insular Cortex,right,"7.14,0.25,-0.25",Increase,3.22
+Model 3,Linear,EtOH > Ctrl,Hypothalamic Region,right,"1.23,0.57,-3.69",Decrease,-4.901
+Model 3,Linear,EtOH > Ctrl,Substantia Nigra,right,"2.87,-4.02,-1.56",Decrease,-4.848
+Model 3,Linear,EtOH > Ctrl,Molecular Layer of the Cerebellum,left,"-1.89,-11.89,1.06",Decrease,-4.687
+Model 3,Linear,EtOH > Ctrl,Frontal Association Cortex,right,"2.22,7.46,3.69",Decrease,-4.61
+Model 3,Linear,EtOH > Ctrl,Molecular Layer of the Cerebellum,right,"5.17,-9.76,3.03",Decrease,-4.567
+Model 3,Linear,EtOH > Ctrl,Entorhinal Cortex,left,"-3.36,1.23,-3.52",Decrease,-4.491
+Model 3,Linear,EtOH > Ctrl,Retosplenial Dysgranular Cortex,left,"-3.36,-6.48,2.21",Decrease,-4.41
+Model 3,Linear,EtOH > Ctrl,Glomerular Layer of the Olfactory Bulb,left,"-1.72,13.03,4.01",Decrease,-4.053
+Model 3,Linear,EtOH > Ctrl,Retrosplenial Granular Cortex Part A,right,"2.38,-4.18,3.36",Decrease,-3.668
+Model 3,Linear,EtOH > Ctrl,Primary Motor Cortex,left,"-2.05,1.07,5.98",Decrease,-3.58
+Model 3,Linear,EtOH > Ctrl,Dysgranular Insular Cortex,left,"-4.51,3.69,1.23",Decrease,-3.324
+Model 3,Linear,EtOH > Ctrl,Olfactory Bulb,left,"-0.41,6.15,-0.9",Decrease,-3.279
+Model 3,Linear,EtOH > Ctrl,Striatum,right,"3.2,3.2,2.54",Decrease,-3.122
+Model 3,Linear,EtOH > Ctrl,Middle Cerebellar Peduncle ,left,"-2.87,-5,-2.7",Decrease,-3.034
+Model 5,Linear,EtOH > Str,Amygdalopiriform Cortex,left,"-4.51,-3.36,-2.05",Increase,6.412
+Model 5,Linear,EtOH > Str,Granule Cell Level of the Cerebellum,right,"5.5,-8.77,-0.25",Increase,6.387
+Model 5,Linear,EtOH > Str,Cornu Ammonis 3,right,"3.69,-2.21,-1.88",Increase,5.176
+Model 5,Linear,EtOH > Str,Molecular Layer of the Cerebellum,right,"0.41,-6.31,-0.25",Increase,5.026
+Model 5,Linear,EtOH > Str,Cornu Ammonis 3,left,"-3.2,-0.9,3.19",Increase,4.494
+Model 5,Linear,EtOH > Str,Striatum,right,"0.9,4.02,0.57",Increase,4.491
+Model 5,Linear,EtOH > Str,Dentate Gyrus,right,"0.57,-0.57,1.06",Increase,4.056
+Model 5,Linear,EtOH > Str,Glomerular Layer of the Olfactory Bulb,right,"0.08,9.59,0.74",Increase,4.012
+Model 5,Linear,EtOH > Str,Primary Motor Cortex,left,"-1.56,5.49,4.83",Increase,3.93
+Model 5,Linear,EtOH > Str,Molecular Layer of the Cerebellum,left,"-0.74,-11.89,-0.57",Increase,3.427
+Model 5,Linear,EtOH > Str,Middle Cerebellar Peduncle ,left,"-2.87,-6.31,-1.72",Decrease,-5.136
+Model 5,Linear,EtOH > Str,Hypothalamic Region,left,"-1.56,-1.56,-2.21",Decrease,-4.883
+Model 5,Linear,EtOH > Str,Striatum,right,"3.53,2.38,2.05",Decrease,-4.48
+Model 5,Linear,EtOH > Str,Entorhinal Cortex,left,"-4.35,1.72,-2.87",Decrease,-4.33
+Model 5,Linear,EtOH > Str,Molecular Layer of the Cerebellum,right,"1.39,-9.92,4.01",Decrease,-4.295
+Model 5,Linear,EtOH > Str,Perirhinal Area 35,right,"3.53,-4.18,0.08",Decrease,-4.281
+Model 5,Linear,EtOH > Str,Thalamus ,left,"-2.22,-3.2,1.39",Decrease,-4.257
+Model 5,Linear,EtOH > Str,Molecular Layer of the Cerebellum,left,"-2.87,-9.43,3.36",Decrease,-4.207
+Model 5,Linear,EtOH > Str,Entorhinal Cortex,right,"6.15,2.05,-1.88",Decrease,-3.956
+Model 5,Linear,EtOH > Str,Dysgranular Insular Cortex,left,"-4.18,3.85,1.39",Decrease,-3.895
+Model 5,Linear,EtOH > Str,Primary Motor Cortex,left,"-2.22,-0.41,5.32",Decrease,-3.841
+Model 5,Linear,EtOH > Str,Molecular Layer of the Cerebellum,right,"1.07,-7.46,0.74",Decrease,-3.696
+Model 5,Linear,EtOH > Str,Hypothalamic Region,right,"1.39,1.23,-2.38",Decrease,-3.606
+Model 3,Linear,Str > Ctrl,Granule Cell Level of the Cerebellum,left,"-3.69,-7.46,-2.05",Increase,5.954
+Model 3,Linear,Str > Ctrl,Cornu Ammonis 1,right,"6.15,-2.87,0.9",Increase,4.575
+Model 3,Linear,Str > Ctrl,Dysgranular Insular Cortex,right,"6.48,1.72,-0.25",Increase,4.55
+Model 3,Linear,Str > Ctrl,PreLimbic System,right,"3.69,5.49,0.08",Increase,4.484
+Model 3,Linear,Str > Ctrl,Agranular Insular Cortex,left,"-3.53,6.15,1.88",Increase,4.393
+Model 3,Linear,Str > Ctrl,Cornu Ammonis 1,left,"-5.01,-3.2,1.06",Increase,4.289
+Model 3,Linear,Str > Ctrl,Granule Cell Level of the Cerebellum,right,"7.47,-7.62,-2.05",Increase,4.208
+Model 3,Linear,Str > Ctrl,Thalamus ,left,"-2.54,0.08,1.88",Increase,4.167
+Model 3,Linear,Str > Ctrl,Thalamus ,right,"2.54,0.74,1.39",Increase,3.874
+Model 3,Linear,Str > Ctrl,Molecular Layer of the Cerebellum,right,"3.2,-10.57,-0.25",Increase,3.848
+Model 3,Linear,Str > Ctrl,Olfactory Bulb,left,"-2.05,10.57,2.05",Increase,3.517
+Model 3,Linear,Str > Ctrl,Middle Cerebellar Peduncle ,right,"3.69,-5.98,-2.21",Increase,3.348
+Model 3,Linear,Str > Ctrl,Molecular Layer of the Cerebellum,left,"-0.25,-7.13,0.9",Increase,3.265
+Model 3,Linear,Str > Ctrl,Medial Entorhinal Cortex,left,"-4.02,-3.36,-2.05",Decrease,-5.648
+Model 3,Linear,Str > Ctrl,Primary Motor Cortex,left,"-1.56,5.82,4.34",Decrease,-4.627
+Model 3,Linear,Str > Ctrl,Subiculum,right,"3.86,-3.03,-2.38",Decrease,-4.588
+Model 3,Linear,Str > Ctrl,Olfactory Bulb,right,"0.25,9.76,2.05",Decrease,-4.314
+Model 3,Linear,Str > Ctrl,Molecular Layer of the Cerebellum,left,"-1.23,-12.21,0.9",Decrease,-4.122
+Model 3,Linear,Str > Ctrl,Molecular Layer of the Cerebellum,right,"4.18,-7.79,3.52",Decrease,-4.092
+Model 3,Linear,Str > Ctrl,Retrosplenial Granular Cortex Part B,right,"1.39,-3.69,3.69",Decrease,-3.9
+Model 3,Linear,Str > Ctrl,Striatum,left,"-4.51,0.74,-0.25",Decrease,-3.851
+Model 3,Linear,Str > Ctrl,Lateral Entorhinal Cortex,right,"7.63,-4.18,-1.06",Decrease,-3.583
+Model 3,Linear,Str > Ctrl,Hypothalamic Region,right,"0.74,1.89,-1.56",Decrease,-3.527
+Model 3,Linear,Str > Ctrl,Molecular Layer of the Cerebellum,left,"-1.07,-7.79,4.01",Decrease,-3.414
+Model 3,Linear,Str > Ctrl,Primary Motor Cortex,right,"2.05,1.23,5.98",Decrease,-3.263
+Model 3,Linear,Str > Ctrl,Glomerular Layer of the Olfactory Bulb,left,"-1.56,12.71,4.34",Decrease,-3.172
+Model 7,Linear,Str > Alc,Middle Cerebellar Peduncle ,left,"-2.87,-6.31,-1.72",Increase,5.136
+Model 7,Linear,Str > Alc,Hypothalamic Region,left,"-1.56,-1.56,-2.21",Increase,4.883
+Model 7,Linear,Str > Alc,Striatum,right,"3.53,2.38,2.05",Increase,4.48
+Model 7,Linear,Str > Alc,Entorhinal Cortex,left,"-4.35,1.72,-2.87",Increase,4.33
+Model 7,Linear,Str > Alc,Molecular Layer of the Cerebellum,right,"1.39,-9.92,4.01",Increase,4.295
+Model 7,Linear,Str > Alc,Perirhinal Area 35,right,"3.53,-4.18,0.08",Increase,4.281
+Model 7,Linear,Str > Alc,Thalamus ,left,"-2.22,-3.2,1.39",Increase,4.257
+Model 7,Linear,Str > Alc,Molecular Layer of the Cerebellum,left,"-2.87,-9.43,3.36",Increase,4.207
+Model 7,Linear,Str > Alc,Entorhinal Cortex,right,"6.15,2.05,-1.88",Increase,3.956
+Model 7,Linear,Str > Alc,Dysgranular Insular Cortex,left,"-4.18,3.85,1.39",Increase,3.895
+Model 7,Linear,Str > Alc,Primary Motor Cortex,left,"-2.22,-0.41,5.32",Increase,3.841
+Model 7,Linear,Str > Alc,Molecular Layer of the Cerebellum,right,"1.07,-7.46,0.74",Increase,3.696
+Model 7,Linear,Str > Alc,Hypothalamic Region,right,"1.39,1.23,-2.38",Increase,3.606
+Model 7,Linear,Str > Alc,Amygdalopiriform Cortex,left,"-4.51,-3.36,-2.05",Decrease,-6.412
+Model 7,Linear,Str > Alc,Granule Cell Level of the Cerebellum,right,"5.5,-8.77,-0.25",Decrease,-6.387
+Model 7,Linear,Str > Alc,Cornu Ammonis 3,right,"3.69,-2.21,-1.88",Decrease,-5.176
+Model 7,Linear,Str > Alc,Molecular Layer of the Cerebellum,right,"0.41,-6.31,-0.25",Decrease,-5.026
+Model 7,Linear,Str > Alc,Cornu Ammonis 3,left,"-3.2,-0.9,3.19",Decrease,-4.494
+Model 7,Linear,Str > Alc,Striatum,right,"0.9,4.02,0.57",Decrease,-4.491
+Model 7,Linear,Str > Alc,Dentate Gyrus,right,"0.57,-0.57,1.06",Decrease,-4.056
+Model 7,Linear,Str > Alc,Glomerular Layer of the Olfactory Bulb,right,"0.08,9.59,0.74",Decrease,-4.012
+Model 7,Linear,Str > Alc,Primary Motor Cortex,left,"-1.56,5.49,4.83",Decrease,-3.93
+Model 7,Linear,Str > Alc,Molecular Layer of the Cerebellum,left,"-0.74,-11.89,-0.57",Decrease,-3.427
+Model 3,Linear,EtOH+Str > Ctrl,Perirhinal Area 36,right,"4.84,-5.16,-0.57",Increase,7.46
+Model 3,Linear,EtOH+Str > Ctrl,Granule Cell Level of the Cerebellum,left,"-3.53,-7.3,-1.88",Increase,6.272
+Model 3,Linear,EtOH+Str > Ctrl,Thalamus ,right,"3.04,-0.9,0.57",Increase,5.987
+Model 3,Linear,EtOH+Str > Ctrl,Glomerular Layer of the Olfactory Bulb,left,"-2.38,10.9,2.87",Increase,5.662
+Model 3,Linear,EtOH+Str > Ctrl,Molecular Layer of the Cerebellum,right,"3.36,-10.57,-0.41",Increase,4.829
+Model 3,Linear,EtOH+Str > Ctrl,Cornu Ammonis 1,left,"-0.74,-0.74,3.69",Increase,4.376
+Model 3,Linear,EtOH+Str > Ctrl,Secondary Cingular Cortex,right,"0.25,4.02,3.52",Increase,4.034
+Model 3,Linear,EtOH+Str > Ctrl,Olfactory Bulb,right,"1.23,9.1,0.9",Increase,3.91
+Model 3,Linear,EtOH+Str > Ctrl,Lateral Entorhinal Cortex,left,"-5.99,-1.72,-1.72",Increase,3.837
+Model 3,Linear,EtOH+Str > Ctrl,Dysgranular Insular Cortex,right,"6.32,2.05,-0.08",Increase,3.314
+Model 3,Linear,EtOH+Str > Ctrl,Granule Cell Level of the Cerebellum,left,"-2.05,-8.77,2.37",Increase,3.275
+Model 3,Linear,EtOH+Str > Ctrl,Molecular Layer of the Cerebellum,right,"1.23,-10.57,4.34",Increase,2.95
+Model 3,Linear,EtOH+Str > Ctrl,Hypothalamic Region,left,"-1.56,0.41,-3.03",Decrease,-7.239
+Model 3,Linear,EtOH+Str > Ctrl,Molecular Layer of the Cerebellum,right,"2.54,-7.46,3.85",Decrease,-5.93
+Model 3,Linear,EtOH+Str > Ctrl,Dysgranular Insular Cortex,left,"-4.35,3.69,1.23",Decrease,-5.811
+Model 3,Linear,EtOH+Str > Ctrl,Retosplenial Dysgranular Cortex,left,"-3.04,-7.13,3.36",Decrease,-5.688
+Model 3,Linear,EtOH+Str > Ctrl,Frontal Association Cortex,right,"2.05,7.62,3.69",Decrease,-5.193
+Model 3,Linear,EtOH+Str > Ctrl,Dentate Gyrus,right,"0.57,0.08,0.57",Decrease,-5.044
+Model 3,Linear,EtOH+Str > Ctrl,Dentate Gyrus,right,"3.2,-2.71,-1.88",Decrease,-4.91
+Model 3,Linear,EtOH+Str > Ctrl,Lateral Entorhinal Cortex,right,"7.63,-4.51,-0.57",Decrease,-4.829
+Model 3,Linear,EtOH+Str > Ctrl,Striatum,right,"4.02,3.69,2.05",Decrease,-4.213
+Model 3,Linear,EtOH+Str > Ctrl,Glomerular Layer of the Olfactory Bulb,left,"-1.72,13.2,3.52",Decrease,-4.155
+Model 3,Linear,EtOH+Str > Ctrl,Entorhinal Cortex,right,"3.53,0.9,-3.85",Decrease,-4.041
+Model 3,Linear,EtOH+Str > Ctrl,Molecular Layer of the Cerebellum,left,"-1.56,-12.05,1.23",Decrease,-4.034
+Model 3,Linear,EtOH+Str > Ctrl,Primary Motor Cortex,left,"-1.07,0.74,5.98",Decrease,-3.962
+Model 3,Linear,EtOH+Str > Ctrl,Olfactory Bulb,left,"-0.25,6.64,-0.57",Decrease,-3.682
+Model 3,Linear,EtOH+Str > Ctrl,Molecular Layer of the Cerebellum,right,"4.51,-11.56,0.41",Decrease,-3.617
+Model 3,Linear,EtOH+Str > Ctrl,Substantia Nigra,left,"-2.05,-3.36,-1.72",Decrease,-3.387
+Model 3,Linear,EtOH+Str > Ctrl,Retosplenial Dysgranular Cortex,right,"1.23,-3.52,5.65",Decrease,-3.338
+Model 3,Linear,EtOH+Str > Ctrl,Dentate Gyrus,left,"-2.38,-2.05,2.7",Decrease,-2.97
+Model 3,Linear,EtOH+Str > Ctrl,Frontal Association Cortex,left,"-2.05,7.46,3.85",Decrease,-2.854
+Model 3,Linear,EtOH+Str > Ctrl,Molecular Layer of the Cerebellum,right,"5.99,-7.46,1.72",Decrease,-2.781
+Model 5,Linear,EtOH+Str > Str,Olfactory Bulb,left,"-0.25,10.25,4.01",Increase,5.027
+Model 5,Linear,EtOH+Str > Str,Molecular Layer of the Cerebellum,left,"-4.18,-9.1,-0.08",Increase,5.014
+Model 5,Linear,EtOH+Str > Str,Molecular Layer of the Cerebellum,right,"5.33,-8.61,-0.41",Increase,4.665
+Model 5,Linear,EtOH+Str > Str,Lateral Entorhinal Cortex,left,"-6.32,-3.52,-2.38",Increase,4.56
+Model 5,Linear,EtOH+Str > Str,Molecular Layer of the Cerebellum,right,"0.9,-6.15,0.25",Increase,3.922
+Model 5,Linear,EtOH+Str > Str,Striatum,left,"-0.9,4.18,0.9",Increase,3.88
+Model 5,Linear,EtOH+Str > Str,Hypothalamic Region,right,"0.25,-2.21,-2.7",Increase,3.772
+Model 5,Linear,EtOH+Str > Str,Molecular Layer of the Cerebellum,left,"-0.57,-12.21,-0.41",Increase,3.381
+Model 5,Linear,EtOH+Str > Str,Retrosplenial Granular Cortex Part B,right,"1.23,-3.36,4.01",Increase,3.354
+Model 5,Linear,EtOH+Str > Str,Thalamus ,right,"3.2,-1.07,0.25",Increase,3.169
+Model 5,Linear,EtOH+Str > Str,Dysgranular Insular Cortex,left,"-4.18,3.85,1.39",Decrease,-6.38
+Model 5,Linear,EtOH+Str > Str,Retosplenial Dysgranular Cortex,left,"-0.08,-5.49,5",Decrease,-5.516
+Model 5,Linear,EtOH+Str > Str,PreLimbic System,right,"1.23,5.82,1.39",Decrease,-5.013
+Model 5,Linear,EtOH+Str > Str,Hypothalamic Region,left,"-1.56,0.57,-2.87",Decrease,-4.604
+Model 5,Linear,EtOH+Str > Str,Striatum,right,"3.2,2.21,2.05",Decrease,-4.542
+Model 5,Linear,EtOH+Str > Str,Dentate Gyrus,left,"-2.22,-3.52,1.39",Decrease,-4.534
+Model 5,Linear,EtOH+Str > Str,Cornu Ammonis 1,right,"5.17,-3.36,2.7",Decrease,-4.274
+Model 5,Linear,EtOH+Str > Str,Granule Cell Level of the Cerebellum,left,"-4.84,-8.12,-1.39",Decrease,-4.052
+Model 5,Linear,EtOH+Str > Str,Substantia Nigra,right,"2.05,-2.71,-1.72",Decrease,-3.816
+Model 5,Linear,EtOH+Str > Str,Presubiculum,left,"-3.53,-7.13,3.36",Decrease,-3.742
+Model 5,Linear,EtOH+Str > Str,Glomerular Layer of the Olfactory Bulb,left,"-1.56,13.2,3.19",Decrease,-3.561
+Model 5,Linear,EtOH+Str > Str,Lateral Entorhinal Cortex,right,"5.99,-1.23,-1.39",Decrease,-3.514
+Model 5,Linear,EtOH+Str > Str,Molecular Layer of the Cerebellum,left,"0.08,-9.1,3.19",Decrease,-3.404
+Model 5,Linear,EtOH+Str > Str,Primary Motor Cortex,left,"-2.05,-0.57,5.32",Decrease,-3.387
+Model 5,Linear,EtOH+Str > Str,Granule Cell Level of the Cerebellum,right,"6.81,-7.95,-2.7",Decrease,-3.2
+Model 5,Linear,EtOH+Str > Str,Entorhinal Cortex,right,"3.53,2.38,-2.87",Decrease,-3.178
+Model 5,Linear,EtOH+Str > Str,Lateral Entorhinal Cortex,left,"-6.15,-3.36,-0.08",Decrease,-3.038
+Model 7,Linear,EtOH+Str > Alc,Molecular Layer of the Cerebellum,left,"-4.51,-8.44,2.05",Increase,6.147
+Model 7,Linear,EtOH+Str > Alc,Thalamus ,right,"3.04,-1.23,0.41",Increase,6.042
+Model 7,Linear,EtOH+Str > Alc,Granule Cell Level of the Cerebellum,right,"4.18,-6.97,-0.9",Increase,5.592
+Model 7,Linear,EtOH+Str > Alc,Olfactory Bulb,left,"-1.39,11.72,4.18",Increase,5.273
+Model 7,Linear,EtOH+Str > Alc,Retrosplenial Granular Cortex Part A,left,"-0.74,-4.34,3.19",Increase,4.949
+Model 7,Linear,EtOH+Str > Alc,Middle Cerebellar Peduncle ,left,"-2.87,-6.31,-2.05",Increase,4.85
+Model 7,Linear,EtOH+Str > Alc,Hypothalamic Region,left,"-0.41,-1.23,-3.85",Increase,4.762
+Model 7,Linear,EtOH+Str > Alc,Molecular Layer of the Cerebellum,right,"4.51,-9.26,3.36",Increase,4.691
+Model 7,Linear,EtOH+Str > Alc,Striatum,left,"-1.72,4.18,1.56",Increase,4.364
+Model 7,Linear,EtOH+Str > Alc,Retosplenial Dysgranular Cortex,left,"0.08,0.25,4.34",Increase,4.273
+Model 7,Linear,EtOH+Str > Alc,Olfactory Bulb,right,"0.41,8.44,1.72",Increase,4.096
+Model 7,Linear,EtOH+Str > Alc,Molecular Layer of the Cerebellum,right,"1.07,-11.39,1.56",Increase,3.488
+Model 7,Linear,EtOH+Str > Alc,Thalamus ,left,"-2.22,-1.72,-0.08",Increase,3.286
+Model 7,Linear,EtOH+Str > Alc,Orbitofrontal Region,right,"4.18,5.33,4.83",Increase,2.936
+Model 7,Linear,EtOH+Str > Alc,Agranular Insular Cortex,right,"5.01,3.53,-0.57",Increase,2.655
+Model 7,Linear,EtOH+Str > Alc,Dentate Gyrus,right,"1.23,-1.39,1.72",Decrease,-6.451
+Model 7,Linear,EtOH+Str > Alc,Lateral Entorhinal Cortex external part,right,"5.01,-2.71,-2.21",Decrease,-6.371
+Model 7,Linear,EtOH+Str > Alc,Cornu Ammonis 3,left,"-3.2,-1.39,3.03",Decrease,-6.031
+Model 7,Linear,EtOH+Str > Alc,Agranular Insular Cortex,left,"-5.01,5.66,1.06",Decrease,-5.9
+Model 7,Linear,EtOH+Str > Alc,Cornu Ammonis 3,left,"-2.87,-2.71,-1.23",Decrease,-5.452
+Model 7,Linear,EtOH+Str > Alc,Retosplenial Dysgranular Cortex,left,"-0.25,-5.66,5",Decrease,-5.083
+Model 7,Linear,EtOH+Str > Alc,Hypothalamic Region,right,"0.25,1.56,-1.56",Decrease,-4.985
+Model 7,Linear,EtOH+Str > Alc,Presubiculum,left,"-5.66,-6.48,1.23",Decrease,-4.551
+Model 7,Linear,EtOH+Str > Alc,Retosplenial Dysgranular Cortex,right,"3.86,-7.13,3.19",Decrease,-4.251
+Model 7,Linear,EtOH+Str > Alc,Glomerular Layer of the Olfactory Bulb,right,"0.74,13.03,2.7",Decrease,-3.93
+Model 7,Linear,EtOH+Str > Alc,Molecular Layer of the Cerebellum,right,"4.18,-8.61,-2.54",Decrease,-3.877
+Model 7,Linear,EtOH+Str > Alc,Granule Cell Level of the Cerebellum,left,"-3.86,-8.44,-2.21",Decrease,-3.795
+Model 7,Linear,EtOH+Str > Alc,Striatum,right,"4.18,3.69,1.88",Decrease,-3.453
+Model 7,Linear,EtOH+Str > Alc,Secondary Motor Cortex,left,"-0.25,0.57,5.81",Decrease,-3.452
+Model 7,Linear,EtOH+Str > Alc,Cornu Ammonis 1,right,"5.01,-3.2,2.87",Decrease,-3.331
+Model 7,Linear,EtOH+Str > Alc,Primary Cingular Cortex,left,"-0.08,6.64,4.18",Decrease,-3.063
+Model 7,Linear,EtOH+Str > Alc,Molecular Layer of the Cerebellum,left,"0.08,-7.46,-1.23",Decrease,-2.973
+Model 7,Linear,EtOH+Str > Alc,Molecular Layer of the Cerebellum,left,"-0.41,-12.05,3.36",Decrease,-2.955
+Model 7,Linear,EtOH+Str > Alc,Olfactory Bulb,left,"-0.25,7.79,0.08",Decrease,-2.898
+Model 7,Linear,EtOH+Str > Alc,Dysgranular Insular Cortex,right,"7.47,0.25,-0.25",Decrease,-2.619
