@@ -1,0 +1,2 @@
+contrast,Sex,estimate,SE,df,p.value,p.value.signif
+Ctrl - Alc,female,0.03,0.01,78.89,0.04,*

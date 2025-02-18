@@ -1,0 +1,8 @@
+contrast,Phase,Sex,Session,estimate,SE,lower.CL,upper.CL,p.value
+Alc - (Alc+Str),Model,female,19,-1.57,0.75,-3.04,-0.11,0.04
+Alc - (Alc+Str),Model,male,12,1.48,0.7,0.1,2.86,0.04
+Alc - (Alc+Str),Model,male,14,1.52,0.71,0.12,2.93,0.03
+Alc - (Alc+Str),Relapse,male,1,2.47,0.75,1,3.94,0
+Alc - (Alc+Str),Relapse,male,12,2.37,1.11,0.18,4.55,0.03
+Alc - (Alc+Str),Relapse,male,13,2.84,1.11,0.66,5.02,0.01
+Alc - (Alc+Str),Relapse,male,14,2.33,1.11,0.15,4.51,0.04

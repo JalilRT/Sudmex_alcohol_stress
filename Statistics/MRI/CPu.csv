@@ -1,0 +1,13 @@
+contrast,Sex,estimate,SE,df,p.value,p.value.signif
+Ctrl - Alc,female,-0.02,0.01,80.6,0.29,ns
+Ctrl - Str,female,-0.02,0.01,81.97,0.35,ns
+Ctrl - (Alc+Str),female,-0.02,0.01,82.84,0.52,ns
+Alc - Str,female,0,0.01,80.65,0.93,ns
+Alc - (Alc+Str),female,0.01,0.01,81.58,0.71,ns
+Str - (Alc+Str),female,0.01,0.01,77.28,0.71,ns
+Ctrl - Alc,male,-0.01,0.01,78.81,0.81,ns
+Ctrl - Str,male,0,0.01,81.99,0.81,ns
+Ctrl - (Alc+Str),male,0.01,0.01,83.81,0.81,ns
+Alc - Str,male,0.01,0.01,80.18,0.81,ns
+Alc - (Alc+Str),male,0.01,0.01,81.8,0.81,ns
+Str - (Alc+Str),male,0,0.01,79.29,0.81,ns

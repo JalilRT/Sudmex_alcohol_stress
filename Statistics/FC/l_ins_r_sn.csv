@@ -1,0 +1,4 @@
+contrast,Sex,estimate,SE,df,t.ratio,p.value,p.value.signif
+Ctrl - Alc,female,-0.07,0.03,77.08,-2.67,0.03,*
+Ctrl - Str,female,-0.08,0.03,79.51,-2.72,0.03,*
+Ctrl - AlcStr,female,-0.08,0.03,81.1,-2.48,0.03,*

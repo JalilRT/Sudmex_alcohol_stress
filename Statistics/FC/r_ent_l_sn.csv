@@ -1,0 +1,2 @@
+contrast,Sex,estimate,SE,df,t.ratio,p.value,p.value.signif
+Str - AlcStr,male,-0.08,0.03,76.08,-2.94,0.03,*

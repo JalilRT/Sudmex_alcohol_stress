@@ -1,0 +1,95 @@
+Region,Contrast,,Region (SIGMA atlas),Hemisphere,"Coordinates (x, y, z)",Effect,t-value
+Association Cortex,EtOH+/CRS+ , EtOH-/CRS-,Frontal Association Cortex,right,"2.05,7.62,3.69",Decrease,-5.193
+Association Cortex,EtOH+/CRS+ , EtOH-/CRS-,Frontal Association Cortex,left,"-2.05,7.46,3.85",Decrease,-2.854
+Cerebellum,EtOH+/CRS+ , EtOH-/CRS-,Granule Cell Level of the Cerebellum,left,"-3.53,-7.3,-1.88",Increase,6.272
+Cerebellum,EtOH+/CRS+ , EtOH-/CRS-,Molecular Layer of the Cerebellum,right,"3.36,-10.57,-0.41",Increase,4.829
+Cerebellum,EtOH+/CRS+ , EtOH-/CRS-,Granule Cell Level of the Cerebellum,left,"-2.05,-8.77,2.37",Increase,3.275
+Cerebellum,EtOH+/CRS+ , EtOH-/CRS-,Molecular Layer of the Cerebellum,right,"1.23,-10.57,4.34",Increase,2.95
+Cerebellum,EtOH+/CRS+ , EtOH-/CRS-,Molecular Layer of the Cerebellum,right,"2.54,-7.46,3.85",Decrease,-5.93
+Cerebellum,EtOH+/CRS+ , EtOH-/CRS-,Molecular Layer of the Cerebellum,left,"-1.56,-12.05,1.23",Decrease,-4.034
+Cerebellum,EtOH+/CRS+ , EtOH-/CRS-,Molecular Layer of the Cerebellum,right,"4.51,-11.56,0.41",Decrease,-3.617
+Cerebellum,EtOH+/CRS+ , EtOH-/CRS-,Molecular Layer of the Cerebellum,right,"5.99,-7.46,1.72",Decrease,-2.781
+Cerebellum,EtOH+/CRS+ , EtOH-/CRS+,Molecular Layer of the Cerebellum,left,"-4.18,-9.1,-0.08",Increase,5.014
+Cerebellum,EtOH+/CRS+ , EtOH-/CRS+,Molecular Layer of the Cerebellum,right,"5.33,-8.61,-0.41",Increase,4.665
+Cerebellum,EtOH+/CRS+ , EtOH-/CRS+,Molecular Layer of the Cerebellum,right,"0.9,-6.15,0.25",Increase,3.922
+Cerebellum,EtOH+/CRS+ , EtOH-/CRS+,Molecular Layer of the Cerebellum,left,"-0.57,-12.21,-0.41",Increase,3.381
+Cerebellum,EtOH+/CRS+ , EtOH-/CRS+,Granule Cell Level of the Cerebellum,left,"-4.84,-8.12,-1.39",Decrease,-4.052
+Cerebellum,EtOH+/CRS+ , EtOH-/CRS+,Molecular Layer of the Cerebellum,left,"0.08,-9.1,3.19",Decrease,-3.404
+Cerebellum,EtOH+/CRS+ , EtOH-/CRS+,Granule Cell Level of the Cerebellum,right,"6.81,-7.95,-2.7",Decrease,-3.2
+Cerebellum,EtOH+/CRS+ , EtOH+/CRS-,Molecular Layer of the Cerebellum,left,"-4.51,-8.44,2.05",Increase,6.147
+Cerebellum,EtOH+/CRS+ , EtOH+/CRS-,Granule Cell Level of the Cerebellum,right,"4.18,-6.97,-0.9",Increase,5.592
+Cerebellum,EtOH+/CRS+ , EtOH+/CRS-,Middle Cerebellar Peduncle ,left,"-2.87,-6.31,-2.05",Increase,4.85
+Cerebellum,EtOH+/CRS+ , EtOH+/CRS-,Molecular Layer of the Cerebellum,right,"4.51,-9.26,3.36",Increase,4.691
+Cerebellum,EtOH+/CRS+ , EtOH+/CRS-,Molecular Layer of the Cerebellum,right,"1.07,-11.39,1.56",Increase,3.488
+Cerebellum,EtOH+/CRS+ , EtOH+/CRS-,Molecular Layer of the Cerebellum,right,"4.18,-8.61,-2.54",Decrease,-3.877
+Cerebellum,EtOH+/CRS+ , EtOH+/CRS-,Granule Cell Level of the Cerebellum,left,"-3.86,-8.44,-2.21",Decrease,-3.795
+Cerebellum,EtOH+/CRS+ , EtOH+/CRS-,Molecular Layer of the Cerebellum,left,"0.08,-7.46,-1.23",Decrease,-2.973
+Cerebellum,EtOH+/CRS+ , EtOH+/CRS-,Molecular Layer of the Cerebellum,left,"-0.41,-12.05,3.36",Decrease,-2.955
+Cingular Cortex,EtOH+/CRS+ , EtOH-/CRS-,Secondary Cingular Cortex,right,"0.25,4.02,3.52",Increase,4.034
+Cingular Cortex,EtOH+/CRS+ , EtOH+/CRS-,Primary Cingular Cortex,left,"-0.08,6.64,4.18",Decrease,-3.063
+Dysgranular Cortex,EtOH+/CRS+ , EtOH-/CRS-,Retosplenial Dysgranular Cortex,left,"-3.04,-7.13,3.36",Decrease,-5.688
+Entorhinal Cortex,EtOH+/CRS+ , EtOH-/CRS-,Lateral Entorhinal Cortex,left,"-5.99,-1.72,-1.72",Increase,3.837
+Entorhinal Cortex,EtOH+/CRS+ , EtOH-/CRS-,Lateral Entorhinal Cortex,right,"7.63,-4.51,-0.57",Decrease,-4.829
+Entorhinal Cortex,EtOH+/CRS+ , EtOH-/CRS-,Entorhinal Cortex,right,"3.53,0.9,-3.85",Decrease,-4.041
+Entorhinal Cortex,EtOH+/CRS+ , EtOH-/CRS+,Lateral Entorhinal Cortex,left,"-6.32,-3.52,-2.38",Increase,4.56
+Entorhinal Cortex,EtOH+/CRS+ , EtOH-/CRS+,Lateral Entorhinal Cortex,right,"5.99,-1.23,-1.39",Decrease,-3.514
+Entorhinal Cortex,EtOH+/CRS+ , EtOH-/CRS+,Entorhinal Cortex,right,"3.53,2.38,-2.87",Decrease,-3.178
+Entorhinal Cortex,EtOH+/CRS+ , EtOH-/CRS+,Lateral Entorhinal Cortex,left,"-6.15,-3.36,-0.08",Decrease,-3.038
+Entorhinal Cortex,EtOH+/CRS+ , EtOH+/CRS-,Lateral Entorhinal Cortex external part,right,"5.01,-2.71,-2.21",Decrease,-6.371
+Hippocampus,EtOH+/CRS+ , EtOH-/CRS-,Cornu Ammonis 1,left,"-0.74,-0.74,3.69",Increase,4.376
+Hippocampus,EtOH+/CRS+ , EtOH-/CRS-,Dentate Gyrus,right,"0.57,0.08,0.57",Decrease,-5.044
+Hippocampus,EtOH+/CRS+ , EtOH-/CRS-,Dentate Gyrus,right,"3.2,-2.71,-1.88",Decrease,-4.91
+Hippocampus,EtOH+/CRS+ , EtOH-/CRS-,Dentate Gyrus,left,"-2.38,-2.05,2.7",Decrease,-2.97
+Hippocampus,EtOH+/CRS+ , EtOH-/CRS+,Dentate Gyrus,left,"-2.22,-3.52,1.39",Decrease,-4.534
+Hippocampus,EtOH+/CRS+ , EtOH-/CRS+,Cornu Ammonis 1,right,"5.17,-3.36,2.7",Decrease,-4.274
+Hippocampus,EtOH+/CRS+ , EtOH-/CRS+,Presubiculum,left,"-3.53,-7.13,3.36",Decrease,-3.742
+Hippocampus,EtOH+/CRS+ , EtOH+/CRS-,Dentate Gyrus,right,"1.23,-1.39,1.72",Decrease,-6.451
+Hippocampus,EtOH+/CRS+ , EtOH+/CRS-,Cornu Ammonis 3,left,"-3.2,-1.39,3.03",Decrease,-6.031
+Hippocampus,EtOH+/CRS+ , EtOH+/CRS-,Cornu Ammonis 3,left,"-2.87,-2.71,-1.23",Decrease,-5.452
+Hippocampus,EtOH+/CRS+ , EtOH+/CRS-,Presubiculum,left,"-5.66,-6.48,1.23",Decrease,-4.551
+Hippocampus,EtOH+/CRS+ , EtOH+/CRS-,Cornu Ammonis 1,right,"5.01,-3.2,2.87",Decrease,-3.331
+Hypothalamus,EtOH+/CRS+ , EtOH-/CRS-,Hypothalamic Region,left,"-1.56,0.41,-3.03",Decrease,-7.239
+Hypothalamus,EtOH+/CRS+ , EtOH-/CRS+,Hypothalamic Region,right,"0.25,-2.21,-2.7",Increase,3.772
+Hypothalamus,EtOH+/CRS+ , EtOH-/CRS+,Hypothalamic Region,left,"-1.56,0.57,-2.87",Decrease,-4.604
+Hypothalamus,EtOH+/CRS+ , EtOH+/CRS-,Hypothalamic Region,left,"-0.41,-1.23,-3.85",Increase,4.762
+Hypothalamus,EtOH+/CRS+ , EtOH+/CRS-,Hypothalamic Region,right,"0.25,1.56,-1.56",Decrease,-4.985
+Insular Cortex,EtOH+/CRS+ , EtOH-/CRS-,Dysgranular Insular Cortex,right,"6.32,2.05,-0.08",Increase,3.314
+Insular Cortex,EtOH+/CRS+ , EtOH-/CRS-,Dysgranular Insular Cortex,left,"-4.35,3.69,1.23",Decrease,-5.811
+Insular Cortex,EtOH+/CRS+ , EtOH-/CRS+,Dysgranular Insular Cortex,left,"-4.18,3.85,1.39",Decrease,-6.38
+Insular Cortex,EtOH+/CRS+ , EtOH+/CRS-,Agranular Insular Cortex,right,"5.01,3.53,-0.57",Increase,2.655
+Insular Cortex,EtOH+/CRS+ , EtOH+/CRS-,Agranular Insular Cortex,left,"-5.01,5.66,1.06",Decrease,-5.9
+Insular Cortex,EtOH+/CRS+ , EtOH+/CRS-,Dysgranular Insular Cortex,right,"7.47,0.25,-0.25",Decrease,-2.619
+Motor Cortex,EtOH+/CRS+ , EtOH-/CRS-,Primary Motor Cortex,left,"-1.07,0.74,5.98",Decrease,-3.962
+Motor Cortex,EtOH+/CRS+ , EtOH-/CRS+,Primary Motor Cortex,left,"-2.05,-0.57,5.32",Decrease,-3.387
+Motor Cortex,EtOH+/CRS+ , EtOH+/CRS-,Secondary Motor Cortex,left,"-0.25,0.57,5.81",Decrease,-3.452
+Olfactory Bulb,EtOH+/CRS+ , EtOH-/CRS-,Glomerular Layer of the Olfactory Bulb,left,"-2.38,10.9,2.87",Increase,5.662
+Olfactory Bulb,EtOH+/CRS+ , EtOH-/CRS-,Olfactory Bulb,right,"1.23,9.1,0.9",Increase,3.91
+Olfactory Bulb,EtOH+/CRS+ , EtOH-/CRS-,Glomerular Layer of the Olfactory Bulb,left,"-1.72,13.2,3.52",Decrease,-4.155
+Olfactory Bulb,EtOH+/CRS+ , EtOH-/CRS-,Olfactory Bulb,left,"-0.25,6.64,-0.57",Decrease,-3.682
+Olfactory Bulb,EtOH+/CRS+ , EtOH-/CRS+,Olfactory Bulb,left,"-0.25,10.25,4.01",Increase,5.027
+Olfactory Bulb,EtOH+/CRS+ , EtOH-/CRS+,Glomerular Layer of the Olfactory Bulb,left,"-1.56,13.2,3.19",Decrease,-3.561
+Olfactory Bulb,EtOH+/CRS+ , EtOH+/CRS-,Olfactory Bulb,left,"-1.39,11.72,4.18",Increase,5.273
+Olfactory Bulb,EtOH+/CRS+ , EtOH+/CRS-,Olfactory Bulb,right,"0.41,8.44,1.72",Increase,4.096
+Olfactory Bulb,EtOH+/CRS+ , EtOH+/CRS-,Glomerular Layer of the Olfactory Bulb,right,"0.74,13.03,2.7",Decrease,-3.93
+Olfactory Bulb,EtOH+/CRS+ , EtOH+/CRS-,Olfactory Bulb,left,"-0.25,7.79,0.08",Decrease,-2.898
+Orbitofrontal Cortex,EtOH+/CRS+ , EtOH+/CRS-,Orbitofrontal Region,right,"4.18,5.33,4.83",Increase,2.936
+Perirhinal Cortex,EtOH+/CRS+ , EtOH-/CRS-,Perirhinal Area 36,right,"4.84,-5.16,-0.57",Increase,7.46
+PreLimbic System,EtOH+/CRS+ , EtOH-/CRS+,PreLimbic System,right,"1.23,5.82,1.39",Decrease,-5.013
+Retosplenial Cortex,EtOH+/CRS+ , EtOH-/CRS-,Retosplenial Dysgranular Cortex,right,"1.23,-3.52,5.65",Decrease,-3.338
+Retosplenial Cortex,EtOH+/CRS+ , EtOH-/CRS+,Retrosplenial Granular Cortex Part B,right,"1.23,-3.36,4.01",Increase,3.354
+Retosplenial Cortex,EtOH+/CRS+ , EtOH-/CRS+,Retosplenial Dysgranular Cortex,left,"-0.08,-5.49,5",Decrease,-5.516
+Retosplenial Cortex,EtOH+/CRS+ , EtOH+/CRS-,Retrosplenial Granular Cortex Part A,left,"-0.74,-4.34,3.19",Increase,4.949
+Retosplenial Cortex,EtOH+/CRS+ , EtOH+/CRS-,Retosplenial Dysgranular Cortex,left,"0.08,0.25,4.34",Increase,4.273
+Retosplenial Cortex,EtOH+/CRS+ , EtOH+/CRS-,Retosplenial Dysgranular Cortex,left,"-0.25,-5.66,5",Decrease,-5.083
+Retosplenial Cortex,EtOH+/CRS+ , EtOH+/CRS-,Retosplenial Dysgranular Cortex,right,"3.86,-7.13,3.19",Decrease,-4.251
+Striatum,EtOH+/CRS+ , EtOH-/CRS-,Striatum,right,"4.02,3.69,2.05",Decrease,-4.213
+Striatum,EtOH+/CRS+ , EtOH-/CRS+,Striatum,left,"-0.9,4.18,0.9",Increase,3.88
+Striatum,EtOH+/CRS+ , EtOH-/CRS+,Striatum,right,"3.2,2.21,2.05",Decrease,-4.542
+Striatum,EtOH+/CRS+ , EtOH+/CRS-,Striatum,left,"-1.72,4.18,1.56",Increase,4.364
+Striatum,EtOH+/CRS+ , EtOH+/CRS-,Striatum,right,"4.18,3.69,1.88",Decrease,-3.453
+Substantia Nigra,EtOH+/CRS+ , EtOH-/CRS-,Substantia Nigra,left,"-2.05,-3.36,-1.72",Decrease,-3.387
+Substantia Nigra,EtOH+/CRS+ , EtOH-/CRS+,Substantia Nigra,right,"2.05,-2.71,-1.72",Decrease,-3.816
+Thalamus ,EtOH+/CRS+ , EtOH-/CRS-,Thalamus ,right,"3.04,-0.9,0.57",Increase,5.987
+Thalamus ,EtOH+/CRS+ , EtOH-/CRS+,Thalamus ,right,"3.2,-1.07,0.25",Increase,3.169
+Thalamus ,EtOH+/CRS+ , EtOH+/CRS-,Thalamus ,right,"3.04,-1.23,0.41",Increase,6.042
+Thalamus ,EtOH+/CRS+ , EtOH+/CRS-,Thalamus ,left,"-2.22,-1.72,-0.08",Increase,3.286

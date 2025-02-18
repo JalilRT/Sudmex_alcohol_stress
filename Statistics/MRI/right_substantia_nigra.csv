@@ -1,0 +1,3 @@
+contrast,Sex,estimate,SE,df,p.value,p.value.signif
+Ctrl - Alc,male,-0.02,0.01,77.37,0.03,*
+Ctrl - Str,male,-0.02,0.01,82.25,0.05,*
