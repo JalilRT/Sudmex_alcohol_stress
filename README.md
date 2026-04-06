@@ -3,7 +3,7 @@
 
 <div align="center"> 
 
-<img src="https://i.ibb.co/r6fpKNW/Model-Alc-Ctrl.png" alt="cerebellum" width="800"/>
+![Design](Figures/Final_Figures/graphic_abstract.png)
 
 </div>
 
@@ -25,11 +25,9 @@ Code for reproducing the analysis for alcohol sudmex-rats
 
 [4. MRI metrics](https://github.com/psilantrolab/Sudmex-alcohol-rat/blob/main/code/MRI_metrics.ipynb)
 
-[5. Inmunofluorescence metrics]()
+[5. Partial least square analysis](https://github.com/psilantrolab/Sudmex-alcohol-rat/blob/main/code/PLS.ipynb)
 
-[6. Partial least square analysis]()
-
-[7. Manuscript figures](https://github.com/psilantrolab/Sudmex-alcohol-rat/blob/main/code/Figures.ipynb)
+[6. Manuscript figures](https://github.com/psilantrolab/Sudmex-alcohol-rat/blob/main/code/Figures.ipynb)
 
 ---
 
